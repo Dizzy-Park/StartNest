@@ -1,0 +1,3642 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "VAZqfePE_BSLOp_ygG3lCP9UXsY",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "v6poyd2Yf0MMfKBIxgGr4CNSyrI",
+      "id": "U6-OMp0EGC4",
+      "snippet": {
+        "publishedAt": "2023-08-14T09:00:31Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]마지막 내연기관 세대의 골프 GTI",
+        "description": "얼마 전 23년형 골프 GTI가 출시됐습니다. \n1열 사이의 센터 사이드 에어백과 몇 가지 장식적인 요소가 더 해졌는데요,\n해당 연식 모델은 시승차로 운용할 계획이 없다고 하여 22년형 모델을 타봤습니다.\n폭스바겐에서 8세대 골프 이후 모델은 전기차가 될 것이라 밝혀서 \n안타깝게도 내연기관의 골프 GTI도 이번 세대가 마지막이 되었습니다.\n사람들이 왜 이렇게 GTI 노래를 부르는지 이유를 알아봤습니다. \n\n#골프 #GTI #시승기 \n\n※ 이 콘텐츠는 폭스바겐 코리아의 시승 차량 제공으로 제작되었습니다\n\n00:00 인트로\n01:24 와인딩\n05:39 편의 장비\n08:44 승차감\n12:32 파워트레인\n16:32 ADAS\n17:22 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U6-OMp0EGC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U6-OMp0EGC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U6-OMp0EGC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/U6-OMp0EGC4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/U6-OMp0EGC4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "골프",
+          "GTI",
+          "시승기",
+          "시승영상",
+          "폭스바겐",
+          "출고 대기",
+          "입항",
+          "웨이팅",
+          "핫해치",
+          "현대",
+          "현대N",
+          "아반떼N",
+          "해치백",
+          "와인딩",
+          "핸들링",
+          "승차감",
+          "파워트레인",
+          "DCC",
+          "23년형",
+          "옵션",
+          "차이",
+          "ADAS",
+          "장점",
+          "단점",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "카앤모어",
+          "시어머니",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]마지막 내연기관 세대의 골프 GTI",
+          "description": "얼마 전 23년형 골프 GTI가 출시됐습니다. \n1열 사이의 센터 사이드 에어백과 몇 가지 장식적인 요소가 더 해졌는데요,\n해당 연식 모델은 시승차로 운용할 계획이 없다고 하여 22년형 모델을 타봤습니다.\n폭스바겐에서 8세대 골프 이후 모델은 전기차가 될 것이라 밝혀서 \n안타깝게도 내연기관의 골프 GTI도 이번 세대가 마지막이 되었습니다.\n사람들이 왜 이렇게 GTI 노래를 부르는지 이유를 알아봤습니다. \n\n#골프 #GTI #시승기 \n\n※ 이 콘텐츠는 폭스바겐 코리아의 시승 차량 제공으로 제작되었습니다\n\n00:00 인트로\n01:24 와인딩\n05:39 편의 장비\n08:44 승차감\n12:32 파워트레인\n16:32 ADAS\n17:22 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XEGXXlGr7tgWXRyqQeUPwRo3vzo",
+      "id": "XWyzQ_QkLUc",
+      "snippet": {
+        "publishedAt": "2023-08-10T11:00:28Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "디자인은 투 머치, 공간도 투 머치 I 디 올 뉴 싼타페",
+        "description": "현대차 최초의 도심형 SUV이자 쏘렌토와 항상 SUV 시장 1위를 엎치락 뒤치락하고 있는 싼타페의 5세대 모델이 드디어 공개되었습니다. \n스파이샷 등을 통해 노출된 싼타페의 이미지를 보고 특히 뒷모습에 대한 설왕설래가 많았죠. \n그런데 오랜만에 디자인 때문에 기능성을 포기한 게 아닌, 기능성 때문에 디자인을 살짝 포기한 모델을 본 것 같습니다. \n디자인에는 가끔씩 너무 과하다 싶은 포인트들이 있지만\n공간 활용성에서 과한 부분은 상당한 장점입니다. \n\n#싼타페 #MX5 #디자인\n\n※ 이 콘텐츠는 현대자동차의 행사에 초청받아 제작되었습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XWyzQ_QkLUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XWyzQ_QkLUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XWyzQ_QkLUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/XWyzQ_QkLUc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/XWyzQ_QkLUc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "싼타페",
+          "MX5",
+          "디자인",
+          "신형",
+          "5세대",
+          "디 올 뉴 싼타페",
+          "크기",
+          "공간",
+          "2열",
+          "3열",
+          "6인승",
+          "옵션",
+          "파워트레인",
+          "활용성",
+          "하이브리드",
+          "가솔린",
+          "센터콘솔",
+          "트렁크",
+          "차박",
+          "폴딩",
+          "기능",
+          "쏘렌토",
+          "가격",
+          "시승기",
+          "시승영상",
+          "기능성",
+          "Santa Fe",
+          "자동차",
+          "모빌리티",
+          "현대자동차",
+          "SUV",
+          "신차발표회",
+          "위키트리",
+          "카앤모어",
+          "시어머니",
+          "카밥",
+          "권혁재",
+          "신기술",
+          "신기능"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "디자인은 투 머치, 공간도 투 머치 I 디 올 뉴 싼타페",
+          "description": "현대차 최초의 도심형 SUV이자 쏘렌토와 항상 SUV 시장 1위를 엎치락 뒤치락하고 있는 싼타페의 5세대 모델이 드디어 공개되었습니다. \n스파이샷 등을 통해 노출된 싼타페의 이미지를 보고 특히 뒷모습에 대한 설왕설래가 많았죠. \n그런데 오랜만에 디자인 때문에 기능성을 포기한 게 아닌, 기능성 때문에 디자인을 살짝 포기한 모델을 본 것 같습니다. \n디자인에는 가끔씩 너무 과하다 싶은 포인트들이 있지만\n공간 활용성에서 과한 부분은 상당한 장점입니다. \n\n#싼타페 #MX5 #디자인\n\n※ 이 콘텐츠는 현대자동차의 행사에 초청받아 제작되었습니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cMrnexiwQgbV-8bq4TYaitpx0n4",
+      "id": "G2izFvnDUvY",
+      "snippet": {
+        "publishedAt": "2023-08-07T08:00:07Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]코나 전기차 사려다 아이오닉5가 아른거린다면? I 코나 일렉트릭",
+        "description": "현대 코나 일렉트릭 롱 레인지 모델을 시승해봤습니다. \n1세대부터 코나는 파생형 모델로 전기차를 만들었는데\n레이 전기차가 나오기 전까지는 현대차 그룹 내에서 가장 저렴한 보급형 전기차 모델입니다. \n의외로 완성도가 상당히 좋았는데 딱 하나 걸리는 부분이 있었습니다.\n\n#코나 #전기차 #시승기 \n\n※ 이 콘텐츠는 현대자동차의 시승 차량 제공으로 제작되었습니다\n\n00:00 인트로\n01:11 내연기관 모델과 다른 점\n04:39 파워트레인과 NVH\n09:31 ADAS\n10:52 승차감\n14:58 코나를 보다 아이오닉5가 보인다면?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G2izFvnDUvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G2izFvnDUvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G2izFvnDUvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/G2izFvnDUvY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/G2izFvnDUvY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "코나",
+          "전기차",
+          "시승기",
+          "시승영상",
+          "일렉트릭",
+          "롱레인지",
+          "인스퍼레이션",
+          "아이오닉5",
+          "E-GMP",
+          "CATL",
+          "승차감",
+          "파워트레인",
+          "옵션",
+          "편의사양",
+          "주행가능거리",
+          "충전",
+          "NVH",
+          "ADAS",
+          "반자율주행",
+          "EV",
+          "SUV",
+          "내연기관",
+          "자동차",
+          "모빌리티",
+          "카앤모어",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재",
+          "현대자동차",
+          "현대차",
+          "장점",
+          "단점"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]코나 전기차 사려다 아이오닉5가 아른거린다면? I 코나 일렉트릭",
+          "description": "현대 코나 일렉트릭 롱 레인지 모델을 시승해봤습니다. \n1세대부터 코나는 파생형 모델로 전기차를 만들었는데\n레이 전기차가 나오기 전까지는 현대차 그룹 내에서 가장 저렴한 보급형 전기차 모델입니다. \n의외로 완성도가 상당히 좋았는데 딱 하나 걸리는 부분이 있었습니다.\n\n#코나 #전기차 #시승기 \n\n※ 이 콘텐츠는 현대자동차의 시승 차량 제공으로 제작되었습니다\n\n00:00 인트로\n01:11 내연기관 모델과 다른 점\n04:39 파워트레인과 NVH\n09:31 ADAS\n10:52 승차감\n14:58 코나를 보다 아이오닉5가 보인다면?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "iaY-d3AV0DOQLRZO9MWgYfntpeo",
+      "id": "WWTJYnN194E",
+      "snippet": {
+        "publishedAt": "2023-08-03T08:00:12Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "낮은 차체, 가벼운 무게, 그리고 6단 수동 변속기, 마지막 내연기관 로터스 I 에미라 3.5 퍼스트에디션",
+        "description": "로터스가 다시 한번 대한민국 땅을 밟았습니다.\n과거 국내에 들어왔지만 저조한 성적으로 수입이 중단되었는데요,\n코너링과 경량화에 불필요한 건 모두 삭제한다는 과거와 달리\n로터스 에미라를 보면 이제는 극악의 하드코어한 느낌은 사라졌습니다.\n하지만 여전히 낮고 가벼우며 매력적인 스포츠카입니다. \n\n#로터스 #에미라 #수동변속기 \n\n00:00 인트로\n00:57 로터스는 어떤 브랜드?\n03:33 익스테리어\n08:31 인테리어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WWTJYnN194E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WWTJYnN194E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WWTJYnN194E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WWTJYnN194E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WWTJYnN194E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "로터스",
+          "에미라",
+          "퍼스트에디션",
+          "스포츠카",
+          "수동변속기",
+          "슈퍼카",
+          "시그니엘",
+          "무게",
+          "경량화",
+          "팝업",
+          "인테리어",
+          "익스테리어",
+          "미드십",
+          "포르쉐",
+          "박스터",
+          "카이맨",
+          "에보라",
+          "엑시지",
+          "엘리스",
+          "내연기관",
+          "전고",
+          "지상고",
+          "잠실",
+          "자동차",
+          "모빌리티",
+          "카앤모어",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재",
+          "시승기",
+          "시승영상",
+          "Lotus",
+          "Emira"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "낮은 차체, 가벼운 무게, 그리고 6단 수동 변속기, 마지막 내연기관 로터스 I 에미라 3.5 퍼스트에디션",
+          "description": "로터스가 다시 한번 대한민국 땅을 밟았습니다.\n과거 국내에 들어왔지만 저조한 성적으로 수입이 중단되었는데요,\n코너링과 경량화에 불필요한 건 모두 삭제한다는 과거와 달리\n로터스 에미라를 보면 이제는 극악의 하드코어한 느낌은 사라졌습니다.\n하지만 여전히 낮고 가벼우며 매력적인 스포츠카입니다. \n\n#로터스 #에미라 #수동변속기 \n\n00:00 인트로\n00:57 로터스는 어떤 브랜드?\n03:33 익스테리어\n08:31 인테리어"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "bpB7LQyxh2xvUwufRFrhEHlYVyY",
+      "id": "u4HTut84beQ",
+      "snippet": {
+        "publishedAt": "2023-07-31T03:00:32Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]트랙스와는 확실히 성격이 다릅니다 I 더 뉴 트레일블레이저",
+        "description": "부분 변경을 진행한 더 뉴 트레일블레이저를 시승해봤습니다. \n익스테리어와 인테리어가 전반적으로 쉐보레 패밀리룩을 강조하며\n트랙스 크로스오버와 비슷한 점이 많아졌습니다. \n그래서 시승을 통해 트랙스 크로스오버와 어떤 점이 다른지 느껴봤습니다\n그리고 더 높아진 가격만큼의 메리트가 있을지도 살펴봤습니다. \n\n#트레일블레이저 #트랙스크로스오버 #시승기 \n\n※ 이 콘텐츠는 GM 한국사업장의 행사에 초청 받아 제작된 영상입니다.\n\n00:00 인트로\n00:58 액티브 인테리어&오디오\n02:29 오프로드 성능\n04:14 승차감과 하체 성능\n09:40 파워트레인과 NVH\n15:34 ADAS\n16:17 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u4HTut84beQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u4HTut84beQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u4HTut84beQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/u4HTut84beQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/u4HTut84beQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "트랙스 크로스오버",
+          "트레일블레이저",
+          "트랙스",
+          "더 뉴 트레일블레이저",
+          "액티브",
+          "RS",
+          "시승기",
+          "시승영상",
+          "파워트레인",
+          "오프로드",
+          "승차감",
+          "ADAS",
+          "가격",
+          "옵션",
+          "풀옵션",
+          "오디오",
+          "인테리어",
+          "익스테리어",
+          "쉐보레",
+          "GM",
+          "AWD",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "카앤모어",
+          "시어머니",
+          "카밥",
+          "권혁재",
+          "장점",
+          "단점",
+          "3기통"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]트랙스와는 확실히 성격이 다릅니다 I 더 뉴 트레일블레이저",
+          "description": "부분 변경을 진행한 더 뉴 트레일블레이저를 시승해봤습니다. \n익스테리어와 인테리어가 전반적으로 쉐보레 패밀리룩을 강조하며\n트랙스 크로스오버와 비슷한 점이 많아졌습니다. \n그래서 시승을 통해 트랙스 크로스오버와 어떤 점이 다른지 느껴봤습니다\n그리고 더 높아진 가격만큼의 메리트가 있을지도 살펴봤습니다. \n\n#트레일블레이저 #트랙스크로스오버 #시승기 \n\n※ 이 콘텐츠는 GM 한국사업장의 행사에 초청 받아 제작된 영상입니다.\n\n00:00 인트로\n00:58 액티브 인테리어&오디오\n02:29 오프로드 성능\n04:14 승차감과 하체 성능\n09:40 파워트레인과 NVH\n15:34 ADAS\n16:17 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "zoYbcDFVlftBEBSPUJureajcRfw",
+      "id": "xg2_OjQqddE",
+      "snippet": {
+        "publishedAt": "2023-07-25T23:30:21Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "하체 성능을 더 '든든하게' 만들었다고 합니다 I 더 뉴 아반떼 N",
+        "description": "벨로스터N, 코나N의 단종과 더불어 아반떼의 부분 변경 모델이 출시되면서 \n현대자동차 N라인업은 한동안 공백이었는데요,\n그 공백을 깨고 신형 아반떼 N이 출시되었습니다. \n디자인만 바뀌지 않았을까 생각했는데, 이것저것 은근히 바뀐 게 많다고 합니다.\n아반떼 N과 함께 아반떼 N 라인도 출시됐는데요,\n아쉽게도 1.6 터보 엔진은 역사의 뒤안길로 사라지고\n1.6 자연흡기 엔진과 하이브리드 중에서 선택 가능하다고 합니다.\n\n#아반떼N #아반떼N라인 #페이스리프트 \n\n* 이 콘텐츠는 현대자동차의 행사에 초청 받아 제작되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xg2_OjQqddE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xg2_OjQqddE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xg2_OjQqddE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xg2_OjQqddE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xg2_OjQqddE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "더 뉴 아반떼N",
+          "아반떼N",
+          "아N",
+          "아반떼N라인",
+          "페이스리프트",
+          "부분 변경",
+          "파워트레인",
+          "ADAS",
+          "옵션",
+          "바뀐 점",
+          "하체",
+          "디자인",
+          "익스테리어",
+          "인테리어",
+          "쏘나타",
+          "아이오닉N",
+          "벨로스터N",
+          "코나N",
+          "자동차",
+          "모빌리티",
+          "시승기",
+          "시승영상",
+          "위키트리",
+          "카앤모어",
+          "시어머니",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "하체 성능을 더 '든든하게' 만들었다고 합니다 I 더 뉴 아반떼 N",
+          "description": "벨로스터N, 코나N의 단종과 더불어 아반떼의 부분 변경 모델이 출시되면서 \n현대자동차 N라인업은 한동안 공백이었는데요,\n그 공백을 깨고 신형 아반떼 N이 출시되었습니다. \n디자인만 바뀌지 않았을까 생각했는데, 이것저것 은근히 바뀐 게 많다고 합니다.\n아반떼 N과 함께 아반떼 N 라인도 출시됐는데요,\n아쉽게도 1.6 터보 엔진은 역사의 뒤안길로 사라지고\n1.6 자연흡기 엔진과 하이브리드 중에서 선택 가능하다고 합니다.\n\n#아반떼N #아반떼N라인 #페이스리프트 \n\n* 이 콘텐츠는 현대자동차의 행사에 초청 받아 제작되었습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "oZE9_TJgDq6M_OkpLiI2Wngh6SM",
+      "id": "pJ_ScoUbmVQ",
+      "snippet": {
+        "publishedAt": "2023-07-24T08:00:18Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]같은 파워트레인 르반떼와 비교해보니... I 마세라티 그레칼레 모데나",
+        "description": "마세라티의 막내 SUV 그레칼레의 인도가 본격적으로 시작됐습니다.\n모데나는 그레칼레 라인업 중 가운데에 위치하고 있습니다.\n2.0ℓ 가솔린 터보 엔진에 마일드 하이브리드 시스템을 얹어 330마력을 냅니다.\n지난 해 이와 같은 파워트레인을 얹은 르반떼 GT 하이브리드를 시승했었는데\n르반떼와 비교해서 어떤지 한번 느껴봤습니다. \n\n#마세라티 #그레칼레 #시승기 \n\n※ 이 콘텐츠는 마세라티의 시승 차량 지원으로 제작되었습니다.\n\n00:00 인트로\n00:45 전장과 오디오\n05:41 파워트레인\n14:01 ADAS\n15:24 하체 성능\n17:58 승차감\n21:48 소소한 단점들\n23:42 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pJ_ScoUbmVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pJ_ScoUbmVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pJ_ScoUbmVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pJ_ScoUbmVQ/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pJ_ScoUbmVQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "마세라티",
+          "그레칼레",
+          "모데나",
+          "마일드 하이브리드",
+          "르반떼",
+          "파워트레인",
+          "ADAS",
+          "반자율주행",
+          "승차감",
+          "코너링",
+          "에어서스펜션",
+          "SUV",
+          "마칸",
+          "포르쉐",
+          "단점",
+          "장점",
+          "오디오",
+          "소너스 파베르",
+          "전장",
+          "시승기",
+          "시승영상",
+          "자동차",
+          "모빌리티",
+          "시어머니",
+          "카밥",
+          "위키트리",
+          "카앤모어",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]같은 파워트레인 르반떼와 비교해보니... I 마세라티 그레칼레 모데나",
+          "description": "마세라티의 막내 SUV 그레칼레의 인도가 본격적으로 시작됐습니다.\n모데나는 그레칼레 라인업 중 가운데에 위치하고 있습니다.\n2.0ℓ 가솔린 터보 엔진에 마일드 하이브리드 시스템을 얹어 330마력을 냅니다.\n지난 해 이와 같은 파워트레인을 얹은 르반떼 GT 하이브리드를 시승했었는데\n르반떼와 비교해서 어떤지 한번 느껴봤습니다. \n\n#마세라티 #그레칼레 #시승기 \n\n※ 이 콘텐츠는 마세라티의 시승 차량 지원으로 제작되었습니다.\n\n00:00 인트로\n00:45 전장과 오디오\n05:41 파워트레인\n14:01 ADAS\n15:24 하체 성능\n17:58 승차감\n21:48 소소한 단점들\n23:42 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EUowGYNLXA5-AgKGurMBaoJz2xo",
+      "id": "bbobPzsRya0",
+      "snippet": {
+        "publishedAt": "2023-07-21T13:33:12Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "스포티지 30주년 모델 실물은 어떤 느낌? 기념 전시 보고 왔습니다",
+        "description": "강남 압구정에 있는 기아의 브랜드관, 기아360에서 \n스포티지의 30주년을 맞이한 특별 전시가 진행되고 있습니다.\n스포티지의 24년형 연식 변경 모델이 출시되며 30주년 트림이 출시됐는데\n1세대 스포티지와 함께 전시되어 있는 모습입니다. \n\n추억에 잠겨 1세대 스포티지를 살펴봤고\n스포티지 30주년 트림도 기존 모델과 어떤 것이 달라졌는지 살펴봤습니다\n\n#스포티지 #30주년 #기아 \n\n※ 이 콘텐츠는 기아의 촬영 협조로 제작되었습니다. \n\n00:00 인트로\n01:05 1세대 스포티지 살펴보기\n09:18 스포티지 30주년 트림",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bbobPzsRya0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bbobPzsRya0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bbobPzsRya0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/bbobPzsRya0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/bbobPzsRya0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "스포티지",
+          "30주년",
+          "기아",
+          "기아360",
+          "전시회",
+          "SUV",
+          "KIA",
+          "자동차",
+          "1세대 스포티지",
+          "모빌리티",
+          "위키트리",
+          "카앤모어",
+          "시어머니",
+          "카밥",
+          "캥거루범퍼",
+          "스페어타이어",
+          "권혁재",
+          "시승기",
+          "시승영상"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "스포티지 30주년 모델 실물은 어떤 느낌? 기념 전시 보고 왔습니다",
+          "description": "강남 압구정에 있는 기아의 브랜드관, 기아360에서 \n스포티지의 30주년을 맞이한 특별 전시가 진행되고 있습니다.\n스포티지의 24년형 연식 변경 모델이 출시되며 30주년 트림이 출시됐는데\n1세대 스포티지와 함께 전시되어 있는 모습입니다. \n\n추억에 잠겨 1세대 스포티지를 살펴봤고\n스포티지 30주년 트림도 기존 모델과 어떤 것이 달라졌는지 살펴봤습니다\n\n#스포티지 #30주년 #기아 \n\n※ 이 콘텐츠는 기아의 촬영 협조로 제작되었습니다. \n\n00:00 인트로\n01:05 1세대 스포티지 살펴보기\n09:18 스포티지 30주년 트림"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "PbgAfYlUF7dMTG-_WT1oECHTPAI",
+      "id": "PbDuik5z23I",
+      "snippet": {
+        "publishedAt": "2023-07-19T12:59:20Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "더 뉴 트레일블레이저, 빠르게 후다닥 훑어봤습니다(인테리어, 익스테리어, 가격)",
+        "description": "트랙스 크로스오버로 오랜만에 훈풍이 불고 있는 한국GM\n굳히기를 위해 트레일블레이저의 부분 변경을 출시했습니다\n이미 해외 시장에서의 인기를 통해\n국내에서 생산되는 자동차 중 가장 많은 수출 물량을 자랑하는데요,\n국내에서도 다시금 인기를 얻을 수 있을까요? \n\n#트레일블레이저 #부분변경 #페이스리프트 \n\n※ 이 콘텐츠는 한국GM의 행사에 초청 받아 제작되었습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PbDuik5z23I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PbDuik5z23I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PbDuik5z23I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PbDuik5z23I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PbDuik5z23I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "트레일블레이저",
+          "부분변경",
+          "페이스리프트",
+          "신차발표",
+          "신차",
+          "익스테리어",
+          "인테리어",
+          "옵션",
+          "가격",
+          "구성",
+          "패키징",
+          "상승세",
+          "한국GM",
+          "트랙스크로스오버",
+          "SUV",
+          "시승기",
+          "시승영상",
+          "액티브",
+          "RS",
+          "프리미어",
+          "LT",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "카앤모어",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "더 뉴 트레일블레이저, 빠르게 후다닥 훑어봤습니다(인테리어, 익스테리어, 가격)",
+          "description": "트랙스 크로스오버로 오랜만에 훈풍이 불고 있는 한국GM\n굳히기를 위해 트레일블레이저의 부분 변경을 출시했습니다\n이미 해외 시장에서의 인기를 통해\n국내에서 생산되는 자동차 중 가장 많은 수출 물량을 자랑하는데요,\n국내에서도 다시금 인기를 얻을 수 있을까요? \n\n#트레일블레이저 #부분변경 #페이스리프트 \n\n※ 이 콘텐츠는 한국GM의 행사에 초청 받아 제작되었습니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kRGe_qCWAtlpgiDf2HizZ4r_Hdo",
+      "id": "57EDK4eWSFY",
+      "snippet": {
+        "publishedAt": "2023-07-17T08:00:03Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]하반기에 나온다는 후륜구동 폴스타2를 기다려야 하나? I 폴스타2 싱글모터(전륜)",
+        "description": "매년 한 대씩 새로운 차량을 출시한다는 폴스타,\n그런 폴스타의 첫 번째 대중 전기차인 폴스타2를 시승해봤습니다.\n참고로 폴스타2는 최근 부분 변경을 거치면서 \n배터리의 용량이 증가하고 싱글 모터의 위치가 전륜에서 후륜으로 바뀌었습니다\n유럽에서는 벌써 판매가 시작됐고 3분기부터 고객 인도가 시작될 예정인데\n올 하반기에는 국내에도 소개가 될 예정입니다. \n\n전기차의 특성상 후륜구동 폴스타2를 기다렸다가 사야할 것인지,\n아니면 현행 전륜구동의 폴스타2를 구매해도 괜찮을지 한번 살펴봤습니다.\n\n#시승기 #폴스타2 #전기차 \n\n※ 이 콘텐츠는 폴스타오토모티브 코리아의 시승차 제공으로 제작되었습니다. \n\n00:00 인트로\n02:01 1열 인테리어와 공간\n08:34 2열 공간\n10:36 트렁크와 프렁크\n13:13 파워트레인과 회생 제동\n19:47 ADAS 성능\n21:07 승차감\n23:05 하체 성능\n25:25 기다릴까? 살까?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/57EDK4eWSFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/57EDK4eWSFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/57EDK4eWSFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/57EDK4eWSFY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/57EDK4eWSFY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "폴스타2",
+          "전기차",
+          "Polestar2",
+          "BEV",
+          "전륜구동",
+          "후륜구동",
+          "부분 변경",
+          "페이스리프트",
+          "시승기",
+          "시승영상",
+          "인테리어",
+          "공간",
+          "1열",
+          "2열",
+          "트렁크",
+          "프렁크",
+          "파워트레인",
+          "회생제동",
+          "ADAS",
+          "승차감",
+          "코너링",
+          "핸들링",
+          "폴스타",
+          "볼보",
+          "LG에너지솔루션",
+          "배터리",
+          "충전",
+          "티맵",
+          "인포테인먼트",
+          "CATL",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "전동화",
+          "시어머니",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]하반기에 나온다는 후륜구동 폴스타2를 기다려야 하나? I 폴스타2 싱글모터(전륜)",
+          "description": "매년 한 대씩 새로운 차량을 출시한다는 폴스타,\n그런 폴스타의 첫 번째 대중 전기차인 폴스타2를 시승해봤습니다.\n참고로 폴스타2는 최근 부분 변경을 거치면서 \n배터리의 용량이 증가하고 싱글 모터의 위치가 전륜에서 후륜으로 바뀌었습니다\n유럽에서는 벌써 판매가 시작됐고 3분기부터 고객 인도가 시작될 예정인데\n올 하반기에는 국내에도 소개가 될 예정입니다. \n\n전기차의 특성상 후륜구동 폴스타2를 기다렸다가 사야할 것인지,\n아니면 현행 전륜구동의 폴스타2를 구매해도 괜찮을지 한번 살펴봤습니다.\n\n#시승기 #폴스타2 #전기차 \n\n※ 이 콘텐츠는 폴스타오토모티브 코리아의 시승차 제공으로 제작되었습니다. \n\n00:00 인트로\n02:01 1열 인테리어와 공간\n08:34 2열 공간\n10:36 트렁크와 프렁크\n13:13 파워트레인과 회생 제동\n19:47 ADAS 성능\n21:07 승차감\n23:05 하체 성능\n25:25 기다릴까? 살까?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dFjPmJoYQhwd99i6GVEBFkD2cQ0",
+      "id": "ux9gZAsw8a8",
+      "snippet": {
+        "publishedAt": "2023-07-13T13:00:50Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "실제로 만나 본 첫 번째 전기차N I 아이오닉5 N",
+        "description": "지금은 영국 굿우드 페스티벌에서 전 세계인에게 공개되었을 아이오닉5 N\n하루 일찍 실물을 마주했습니다. \n하지만 연구원 분들이 이야기해주신 이 차에 들어간 신기술을 들어보면...\n이 차는 무조건 타봐야 알 것 같습니다. \n\n#아이오닉5 #전기차 #N \n\n*이 콘텐츠는 현대자동차의 행사에 초청 받아 제작되었습니다. \n\n00:00 인트로\n00:35 익스테리어의 변화\n06:21 인테리어의 변화\n11:20 적용된 신기술",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ux9gZAsw8a8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ux9gZAsw8a8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ux9gZAsw8a8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ux9gZAsw8a8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ux9gZAsw8a8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "아이오닉5 N",
+          "아이오닉5",
+          "Ioniq5 N",
+          "Ioniq5",
+          "BEV",
+          "전기차",
+          "전기 스포츠카",
+          "굿우드 페스티벌",
+          "최초 공개",
+          "실물",
+          "익스테리어",
+          "인테리어",
+          "신기술",
+          "가상 변속기",
+          "N e-Shift",
+          "가상 배기",
+          "전설",
+          "드리프트",
+          "남산",
+          "현대자동차",
+          "현대차",
+          "Hyundai",
+          "모터스포츠",
+          "배터리",
+          "성능",
+          "출력",
+          "자동차",
+          "모빌리티",
+          "시승기",
+          "시승영상",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "실제로 만나 본 첫 번째 전기차N I 아이오닉5 N",
+          "description": "지금은 영국 굿우드 페스티벌에서 전 세계인에게 공개되었을 아이오닉5 N\n하루 일찍 실물을 마주했습니다. \n하지만 연구원 분들이 이야기해주신 이 차에 들어간 신기술을 들어보면...\n이 차는 무조건 타봐야 알 것 같습니다. \n\n#아이오닉5 #전기차 #N \n\n*이 콘텐츠는 현대자동차의 행사에 초청 받아 제작되었습니다. \n\n00:00 인트로\n00:35 익스테리어의 변화\n06:21 인테리어의 변화\n11:20 적용된 신기술"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3l2phnlMs2BkiVZRz488037srIA",
+      "id": "ynK1oGVEoUI",
+      "snippet": {
+        "publishedAt": "2023-07-10T09:00:41Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "룸미러인데 블랙박스인데 ADAS도 지원한다고요? I 아이나비 허브 E100",
+        "description": "블랙박스 1위 업체 아이나비 허브에서 드디어 룸미러형 블랙박스를 내놨습니다.\n저는 출시 전부터 아이나비 허브의 제품 협찬으로 미리 사용해봤는데요\n룸미러형 블랙박스를 최초로 접했기에 이미 신세계였는데\n심지어 ADAS의 일부 기능까지 지원하는 걸 보고 놀랐습니다. \n하지만, 최대한 객관적인 입장에서 냉정하게 리뷰를 진행해봤습니다. \n아쉬운 부분도 딱 집어냈습니다. \n\n[이벤트가 종료되었습니다]\n\n링크 : https://forms.gle/nRQAEQ2zV1nK1A1S7\n\n#아이나비 #블랙박스 #룸미러\n\n※ 이 콘텐츠는 아이나비 허브로부터 제품을 협찬 받아 제작되었습니다. \n\n00:00 인트로\n01:39 전자식 룸미러로서의 활용성\n04:42 ADAS기능\n07:10 야간 성능\n08:11 총평 및 이벤트 안내",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ynK1oGVEoUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ynK1oGVEoUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ynK1oGVEoUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ynK1oGVEoUI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ynK1oGVEoUI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "아이나비",
+          "아이나비허브",
+          "E100",
+          "룸미러",
+          "블랙박스",
+          "룸미러 블랙박스",
+          "ADAS",
+          "차선이탈방지",
+          "전방차량충돌경보",
+          "전방차량출발경고",
+          "야간",
+          "화질",
+          "해상도",
+          "성능",
+          "탑차",
+          "리뷰",
+          "이벤트",
+          "증정",
+          "자동차용품",
+          "inavy",
+          "화각",
+          "전자식 룸미러",
+          "화물차",
+          "후방 시야",
+          "자동차",
+          "모빌리티",
+          "시승시",
+          "시승영상",
+          "후기",
+          "시어머니",
+          "위키트리",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "룸미러인데 블랙박스인데 ADAS도 지원한다고요? I 아이나비 허브 E100",
+          "description": "블랙박스 1위 업체 아이나비 허브에서 드디어 룸미러형 블랙박스를 내놨습니다.\n저는 출시 전부터 아이나비 허브의 제품 협찬으로 미리 사용해봤는데요\n룸미러형 블랙박스를 최초로 접했기에 이미 신세계였는데\n심지어 ADAS의 일부 기능까지 지원하는 걸 보고 놀랐습니다. \n하지만, 최대한 객관적인 입장에서 냉정하게 리뷰를 진행해봤습니다. \n아쉬운 부분도 딱 집어냈습니다. \n\n[이벤트가 종료되었습니다]\n\n링크 : https://forms.gle/nRQAEQ2zV1nK1A1S7\n\n#아이나비 #블랙박스 #룸미러\n\n※ 이 콘텐츠는 아이나비 허브로부터 제품을 협찬 받아 제작되었습니다. \n\n00:00 인트로\n01:39 전자식 룸미러로서의 활용성\n04:42 ADAS기능\n07:10 야간 성능\n08:11 총평 및 이벤트 안내"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7LkomBNjIVTAuYB24f54wEGFJvI",
+      "id": "ewVmrBN90Oo",
+      "snippet": {
+        "publishedAt": "2023-07-05T00:58:48Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "일단 너무 예뻐졌잖아 I 더 뉴 모닝",
+        "description": "3세대 모닝의 부분 변경 모델이 공개됐습니다. \n풀 체인지급 부분 변경은 이럴 때 쓰는 말인가 봅니다.\n2세대에서 3세대로 바뀌었을 때보다 \n비주얼적 차별성은 더욱 강해진 것 같습니다.\n가격은 약 110만 원 정도가 인상됐는데\n편의사양과 ADAS 부분에 있어 발전한 부분이 많습니다. \n\n#모닝 #부분변경 #경차\n\n* 이 콘텐츠는 기아의 신차 발표 행사에 초청 받아 제작되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ewVmrBN90Oo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ewVmrBN90Oo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ewVmrBN90Oo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ewVmrBN90Oo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ewVmrBN90Oo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "기아",
+          "모닝",
+          "부분변경",
+          "경차",
+          "JA",
+          "가격",
+          "디자인",
+          "크기",
+          "옵션",
+          "신차",
+          "캐스퍼",
+          "레이",
+          "스파크",
+          "페이스리프트",
+          "인테리어",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "시승기",
+          "시승영상",
+          "권혁재",
+          "색상",
+          "morning",
+          "피칸토",
+          "KIA"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "일단 너무 예뻐졌잖아 I 더 뉴 모닝",
+          "description": "3세대 모닝의 부분 변경 모델이 공개됐습니다. \n풀 체인지급 부분 변경은 이럴 때 쓰는 말인가 봅니다.\n2세대에서 3세대로 바뀌었을 때보다 \n비주얼적 차별성은 더욱 강해진 것 같습니다.\n가격은 약 110만 원 정도가 인상됐는데\n편의사양과 ADAS 부분에 있어 발전한 부분이 많습니다. \n\n#모닝 #부분변경 #경차\n\n* 이 콘텐츠는 기아의 신차 발표 행사에 초청 받아 제작되었습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eh1uOJqNVdmoi-ILsQiGgO_Yp7s",
+      "id": "jHEnfkMFTLw",
+      "snippet": {
+        "publishedAt": "2023-07-03T08:00:30Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "장거리 주행하면 끊긴다고요? I 메이튼 오토프로 Mayton Android Auto Wireless Adapter #자동차용품",
+        "description": "자동차 콘텐츠로 밥 벌어 먹고 살아야 하는 채널 [카밥]! \n\n약 1년 전, 무선 앱 커넥티드 어댑터 구매를 알아보다 \n자주 끊긴다는 리뷰에 구매를 포기했던 저는\n메이튼에서 주신 제안에 솔깃해서 진짜 '리뷰어'로서 제품을 써봤습니다.\n특히 '자주 끊긴다', '장거리를 주행하면 끊긴다'라는 부분에 대해서\n직접 서울에서 인제까지 주행하면서 어떤 결과가 나왔는지 살펴봤습니다. \n\n#올뉴크루즈 #차량용품 #안드로이드오토\n\n※ 이 콘텐츠는 메이튼으로부터 제품을 협찬 받아 제작되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jHEnfkMFTLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jHEnfkMFTLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jHEnfkMFTLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/jHEnfkMFTLw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/jHEnfkMFTLw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "올뉴크루즈",
+          "자동차 용품",
+          "차량 용품",
+          "안드로이드오토",
+          "무선안드로이드오토",
+          "안드로이드오토동글",
+          "오토프로",
+          "메이튼",
+          "메이튼 오토프로",
+          "메이튼 안드로이드오토",
+          "애플 카플레이",
+          "메이튼 애플 카플레이",
+          "앱커넥티드",
+          "와이어리스",
+          "무선",
+          "mayton",
+          "android auto wireless adapter",
+          "apple carplay wireless adapter",
+          "이벤트",
+          "구독자",
+          "유튜브",
+          "핸드폰",
+          "휴대폰",
+          "서울",
+          "인제",
+          "스피디움",
+          "장거리",
+          "티맵",
+          "카카오네비",
+          "멜론",
+          "자동차",
+          "모빌리티",
+          "시어머니",
+          "카밥",
+          "위키트리",
+          "권혁재",
+          "쉐보레"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "장거리 주행하면 끊긴다고요? I 메이튼 오토프로 Mayton Android Auto Wireless Adapter #자동차용품",
+          "description": "자동차 콘텐츠로 밥 벌어 먹고 살아야 하는 채널 [카밥]! \n\n약 1년 전, 무선 앱 커넥티드 어댑터 구매를 알아보다 \n자주 끊긴다는 리뷰에 구매를 포기했던 저는\n메이튼에서 주신 제안에 솔깃해서 진짜 '리뷰어'로서 제품을 써봤습니다.\n특히 '자주 끊긴다', '장거리를 주행하면 끊긴다'라는 부분에 대해서\n직접 서울에서 인제까지 주행하면서 어떤 결과가 나왔는지 살펴봤습니다. \n\n#올뉴크루즈 #차량용품 #안드로이드오토\n\n※ 이 콘텐츠는 메이튼으로부터 제품을 협찬 받아 제작되었습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "a_vxk1dU78zAZ-dMSiGvNYHPUV4",
+      "id": "qFDFKL1vmjU",
+      "snippet": {
+        "publishedAt": "2023-06-28T08:00:24Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]렉서스다운 전동화? 그게 뭔데? I RX500h & RZ450e",
+        "description": "렉서스다운 전동화를 표방하며 출시한 5세대 RX와\n렉서스 최초의 전용 플랫폼 전기차 RZ를 시승해봤습니다.\n다양한 프로그램으로 길게 시승하지는 못 했지만 브랜드가 이야기한\n'렉서스다운 전동화'에 대해서는 어느 정도 짐작이 갔습니다. \n\n#RX #RZ #시승기 \n\n※ 이 콘텐츠는 한국토요타자동차의 행사에 초청 받아 제작되었습니다\n\n00:00 인트로\n00:55 RX500h F Sport 퍼포먼스 시승\n08:04 RZ450e 시승\n15:44 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qFDFKL1vmjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qFDFKL1vmjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qFDFKL1vmjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qFDFKL1vmjU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qFDFKL1vmjU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "RX",
+          "RZ",
+          "시승기",
+          "렉서스",
+          "Lexus",
+          "토요타",
+          "하이브리드",
+          "전기차",
+          "RX500h",
+          "F Sport",
+          "SUV",
+          "Toyota",
+          "EV",
+          "LC",
+          "인제",
+          "인제스피디움",
+          "RZ450e",
+          "BZ4X",
+          "HEV",
+          "BEV",
+          "와인딩",
+          "승차감",
+          "파워트레인",
+          "제동",
+          "브레이크",
+          "엔진",
+          "출력",
+          "NVH",
+          "인테리어",
+          "코너링",
+          "하체",
+          "주행 질감",
+          "시승영상",
+          "모빌리티",
+          "자동차",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]렉서스다운 전동화? 그게 뭔데? I RX500h & RZ450e",
+          "description": "렉서스다운 전동화를 표방하며 출시한 5세대 RX와\n렉서스 최초의 전용 플랫폼 전기차 RZ를 시승해봤습니다.\n다양한 프로그램으로 길게 시승하지는 못 했지만 브랜드가 이야기한\n'렉서스다운 전동화'에 대해서는 어느 정도 짐작이 갔습니다. \n\n#RX #RZ #시승기 \n\n※ 이 콘텐츠는 한국토요타자동차의 행사에 초청 받아 제작되었습니다\n\n00:00 인트로\n00:55 RX500h F Sport 퍼포먼스 시승\n08:04 RZ450e 시승\n15:44 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "H3llTPWLgdLhUVJpPxgzPrSdcv4",
+      "id": "gS5iEwvzRYs",
+      "snippet": {
+        "publishedAt": "2023-06-27T08:00:25Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "국내 최초 공개! 빠르게 훑어봤습니다 I 애스턴마틴 DB12",
+        "description": "애스턴마틴의 GT 모델인 DB12가 국내에 최초로 공개됐습니다.\nGrand Tourer의 'Grand'도 이 차를 담아내기에 충분하지 않다며\nSuper Tourer, 세계 최초의 ST라는 장르라고 홍보합니다. \n\n3분기부터 고객 인도 예정인데 아직 국내 판매 가격은 미정입니다.\n애스턴마틴 아태평양 사장이 직접 찾아올 정도로 \n최근 대한민국의 슈퍼카 시장 성장 속도가 가파른데요\n글로벌 시장에서도 선구매 예약이 높아 \n지금 구매해도 1년 정도를 기다려야 한다고 합니다. \n\n#애스턴마틴 #DB12 #슈퍼카\n\n※ 이 콘텐츠는 애스턴마틴 서울의 행사에 초청 받아 제작되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gS5iEwvzRYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gS5iEwvzRYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gS5iEwvzRYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/gS5iEwvzRYs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/gS5iEwvzRYs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "애스턴마틴",
+          "DB12",
+          "슈퍼카",
+          "GT",
+          "ST",
+          "Grand Tourer",
+          "Super Tourer",
+          "M177",
+          "AMG",
+          "Aston Martin",
+          "페라리",
+          "람보르기니",
+          "신차발표",
+          "자동차",
+          "모빌리티",
+          "시승기",
+          "시승영상",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "국내 최초 공개! 빠르게 훑어봤습니다 I 애스턴마틴 DB12",
+          "description": "애스턴마틴의 GT 모델인 DB12가 국내에 최초로 공개됐습니다.\nGrand Tourer의 'Grand'도 이 차를 담아내기에 충분하지 않다며\nSuper Tourer, 세계 최초의 ST라는 장르라고 홍보합니다. \n\n3분기부터 고객 인도 예정인데 아직 국내 판매 가격은 미정입니다.\n애스턴마틴 아태평양 사장이 직접 찾아올 정도로 \n최근 대한민국의 슈퍼카 시장 성장 속도가 가파른데요\n글로벌 시장에서도 선구매 예약이 높아 \n지금 구매해도 1년 정도를 기다려야 한다고 합니다. \n\n#애스턴마틴 #DB12 #슈퍼카\n\n※ 이 콘텐츠는 애스턴마틴 서울의 행사에 초청 받아 제작되었습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "itHBso7xAr2R7eGQyJg8PTYgdcQ",
+      "id": "ZGigmFfi9i0",
+      "snippet": {
+        "publishedAt": "2023-06-22T01:00:11Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "뭐를 좋아할지 몰라서 다 가져와봤어 I 렉서스 RX/RZ 신차 발표회",
+        "description": "렉서스가 5세대 RX와 최초의 전용 플랫폼 전기차 RZ를 출시했습니다.\n특히 RX는 모든 파워트레인이 하이브리드와 플러그인 하이브리드 구성으로\n모든 모델이 전동화 모델입니다. \n\n신차 발표회에서 실내외 위주로 만듦새가 어떤지 살펴봤습니다. \n\n#렉서스 #전기차 #RX \n\n※이 콘텐츠는 렉서스 코리아의 행사 초청으로 제작되었습니다.\n\n00:00 인트로\n00:25 5세대 RX\n14:57 전기차 RZ",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZGigmFfi9i0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZGigmFfi9i0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZGigmFfi9i0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZGigmFfi9i0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZGigmFfi9i0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "렉서스",
+          "RX",
+          "RZ",
+          "신차발표회",
+          "RX350h",
+          "RX450h+",
+          "RX500h",
+          "RZ450e",
+          "F Sport",
+          "Performance",
+          "F스포트",
+          "퍼포먼스",
+          "인테리어",
+          "익스테리어",
+          "디자인",
+          "옵션",
+          "내장재",
+          "디스플레이",
+          "전기차",
+          "토요타",
+          "Lexus",
+          "Toyota",
+          "HEV",
+          "PHEV",
+          "BEV",
+          "하이브리드",
+          "플러그인 하이브리드",
+          "전동화",
+          "커넥트투",
+          "SUV",
+          "배터리",
+          "주행가능거리",
+          "공간",
+          "자동차",
+          "모빌리티",
+          "시어머니",
+          "카밥",
+          "위키트리",
+          "권혁재",
+          "크라운"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "뭐를 좋아할지 몰라서 다 가져와봤어 I 렉서스 RX/RZ 신차 발표회",
+          "description": "렉서스가 5세대 RX와 최초의 전용 플랫폼 전기차 RZ를 출시했습니다.\n특히 RX는 모든 파워트레인이 하이브리드와 플러그인 하이브리드 구성으로\n모든 모델이 전동화 모델입니다. \n\n신차 발표회에서 실내외 위주로 만듦새가 어떤지 살펴봤습니다. \n\n#렉서스 #전기차 #RX \n\n※이 콘텐츠는 렉서스 코리아의 행사 초청으로 제작되었습니다.\n\n00:00 인트로\n00:25 5세대 RX\n14:57 전기차 RZ"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gJbqWhN7Q6K3zt2ym41l4_Rs5ew",
+      "id": "xKezuUAJgC8",
+      "snippet": {
+        "publishedAt": "2023-06-21T08:00:21Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "미리 알아보면 포니 시승도 가능합니다 I 포니의 시간",
+        "description": "현대자동차가 포니 쿠페 컨셉을 복원한 이후\n현대 모터스튜디오 서울에서 '포니의 시간'이라는 행사를 열고 있습니다.\n\n저는 포니에 대한 향수를 가지기에는 조금 어린데요,\n자동차를 좋아한다면 마음이 몽글몽글 해지는 전시입니다. \n미리 인터넷을 통해 예약하면 포니를 비롯한 1세대 그랜저, 스쿠프 등\n오래된 현대차에 동승할 수 있는 프로그램도 있습니다. \n\n#포니 #현대차 #전시회 \n\n※ 이 콘텐츠는 현대자동차의 촬영 협조로 제작되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xKezuUAJgC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xKezuUAJgC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xKezuUAJgC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xKezuUAJgC8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xKezuUAJgC8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "포니의시간",
+          "포니",
+          "포니2",
+          "포니픽업",
+          "포니웨건",
+          "N비전74",
+          "N Vision 74",
+          "포니 쿠페",
+          "Pony",
+          "Pony Coupe",
+          "아이오닉5",
+          "Ioniq5",
+          "Pony2",
+          "Pony Pickup",
+          "Pony wagon",
+          "모터스튜디오",
+          "강남",
+          "전시회",
+          "전시",
+          "도슨트 투어",
+          "시승",
+          "동승",
+          "스쿠프",
+          "각그랜저",
+          "갤로퍼",
+          "현대차",
+          "현대자동차",
+          "헤리티지",
+          "역사",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "조르제토 주지아로",
+          "이탈디자인"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "미리 알아보면 포니 시승도 가능합니다 I 포니의 시간",
+          "description": "현대자동차가 포니 쿠페 컨셉을 복원한 이후\n현대 모터스튜디오 서울에서 '포니의 시간'이라는 행사를 열고 있습니다.\n\n저는 포니에 대한 향수를 가지기에는 조금 어린데요,\n자동차를 좋아한다면 마음이 몽글몽글 해지는 전시입니다. \n미리 인터넷을 통해 예약하면 포니를 비롯한 1세대 그랜저, 스쿠프 등\n오래된 현대차에 동승할 수 있는 프로그램도 있습니다. \n\n#포니 #현대차 #전시회 \n\n※ 이 콘텐츠는 현대자동차의 촬영 협조로 제작되었습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "gCnKeoxrQTOPgYgwm-HcDdpcJSM",
+      "id": "Y-MjB30VfMk",
+      "snippet": {
+        "publishedAt": "2023-06-13T08:00:11Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]운전 재미 만큼은 아직 국내 원탑 I G70 2.5T AWD",
+        "description": "G70이 부분 변경을 진행했습니다.\n익스테리어는 엠블럼과 휠 디자인 등 변화의 폭이 크지 않고\n인테리어도 공조기와 룸미러 등이 변경되는 등 크게 변하지 않았습니다.\n제일 크게 바뀐 것은 얼마 전 단종 된 스팅어가 품고 있던 \n2.5ℓ 터보 엔진을 탑재했다는 것인데요,\n파워트레인과 하체 성능, 승차감 위주로 살펴봤습니다.\n\n#G70 #시승기 #2.5T\n\n※ 이 콘텐츠는 제네시스의 행사에 초청 받아 제작되었습니다. \n\n00:00 바뀐 것들\n01:18 인테리어의 변화점/오디오\n02:25 파워트레인\n06:41 하체 성능 및 승차감\n10:34 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y-MjB30VfMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y-MjB30VfMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y-MjB30VfMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y-MjB30VfMk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y-MjB30VfMk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "제네시스",
+          "G70",
+          "2.5T",
+          "터보",
+          "AWD",
+          "4WD",
+          "Genesis",
+          "스팅어",
+          "파워트레인",
+          "부분변경",
+          "페이스리프트",
+          "연식변경",
+          "승차감",
+          "서스펜션",
+          "가변식",
+          "전자제어",
+          "하체",
+          "성능",
+          "와인딩",
+          "공조기",
+          "인테리어",
+          "색상",
+          "익스테리어",
+          "가솔린",
+          "시승기",
+          "시승영상",
+          "현대자동차",
+          "모빌리티",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재",
+          "3.3T",
+          "슈팅브레이크",
+          "장점",
+          "단점",
+          "운전재미"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]운전 재미 만큼은 아직 국내 원탑 I G70 2.5T AWD",
+          "description": "G70이 부분 변경을 진행했습니다.\n익스테리어는 엠블럼과 휠 디자인 등 변화의 폭이 크지 않고\n인테리어도 공조기와 룸미러 등이 변경되는 등 크게 변하지 않았습니다.\n제일 크게 바뀐 것은 얼마 전 단종 된 스팅어가 품고 있던 \n2.5ℓ 터보 엔진을 탑재했다는 것인데요,\n파워트레인과 하체 성능, 승차감 위주로 살펴봤습니다.\n\n#G70 #시승기 #2.5T\n\n※ 이 콘텐츠는 제네시스의 행사에 초청 받아 제작되었습니다. \n\n00:00 바뀐 것들\n01:18 인테리어의 변화점/오디오\n02:25 파워트레인\n06:41 하체 성능 및 승차감\n10:34 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DYAXcvWwFzNMNYn5EoXSeKMLRpo",
+      "id": "JiliXviA6xY",
+      "snippet": {
+        "publishedAt": "2023-06-12T03:00:12Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]8백만 원 차이인데 뭘 선택해야 할까? I 크라운 크로스오버",
+        "description": "토요타의 새로운 플래그십, 크라운 크로스오버를 시승했습니다.\n2.4 듀얼 부스트 하이브리드와 2.5 하이브드리드 모델을 동시에 시승하는 행사였는데요,\n플래그십이라기에는 다소 아쉬운 편의장비의 부재만 제외한다면\n파워트레인과 세그먼트의 니치마켓을 공략한 영리한 모델입니다. \n\n* 얼굴 노출도 흔쾌히 허락해주신 오마이뉴스 김종철 기자님께 감사 말씀드립니다. \n\n#크라운 #하이브리드 #시승기 \n\n※ 이 콘텐츠는 한국토요타자동차의 행사에 초청 받아 제작된 영상입니다.\n\n00:00 인트로\n00:37 2.4와 2.5의 차이는?\n02:53 2.4 파워트레인\n06:16 2.4 승차감과 하체 세팅\n08:15 ADAS 성능\n08:54 2.5 파워트레인\n11:02 2.5 승차감과 하체 세팅\n12:16 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JiliXviA6xY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JiliXviA6xY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JiliXviA6xY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JiliXviA6xY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JiliXviA6xY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "토요타",
+          "크라운",
+          "크로스오버",
+          "하이브리드",
+          "시승기",
+          "2.4듀얼부스트",
+          "2.5",
+          "그랜저",
+          "ES300h",
+          "편의사양",
+          "시승영상",
+          "파워트레인",
+          "승차감",
+          "가변식",
+          "서스펜션",
+          "하체성능",
+          "플래그십",
+          "V6",
+          "렉서스",
+          "연비",
+          "자동차",
+          "모빌리티",
+          "전동화",
+          "카밥",
+          "시어머니",
+          "위키트리",
+          "권혁재",
+          "Toyota",
+          "Crown",
+          "Hybrid",
+          "DualBoost",
+          "Lexus"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]8백만 원 차이인데 뭘 선택해야 할까? I 크라운 크로스오버",
+          "description": "토요타의 새로운 플래그십, 크라운 크로스오버를 시승했습니다.\n2.4 듀얼 부스트 하이브리드와 2.5 하이브드리드 모델을 동시에 시승하는 행사였는데요,\n플래그십이라기에는 다소 아쉬운 편의장비의 부재만 제외한다면\n파워트레인과 세그먼트의 니치마켓을 공략한 영리한 모델입니다. \n\n* 얼굴 노출도 흔쾌히 허락해주신 오마이뉴스 김종철 기자님께 감사 말씀드립니다. \n\n#크라운 #하이브리드 #시승기 \n\n※ 이 콘텐츠는 한국토요타자동차의 행사에 초청 받아 제작된 영상입니다.\n\n00:00 인트로\n00:37 2.4와 2.5의 차이는?\n02:53 2.4 파워트레인\n06:16 2.4 승차감과 하체 세팅\n08:15 ADAS 성능\n08:54 2.5 파워트레인\n11:02 2.5 승차감과 하체 세팅\n12:16 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Huq701WBBJdiIbhGFMZxsYWJE54",
+      "id": "p0MihnP18q8",
+      "snippet": {
+        "publishedAt": "2023-06-06T03:36:44Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "시승 앞두고 만난 일본의 그랜저 I 토요타 크라운 크로스오버",
+        "description": "토요타가 올해 두 번째 신차로 크라운 크로스오버를 들여왔습니다. \n아발론의 자리를 대체하는 토요타의 플래그십 모델로\n무려 16세대를 맞이한 유구한 전통성을 가진 모델입니다. \n\n이번 주에 진행될 시승을 앞두고 쇼케이스에서 \n익스테리어와 인테리어 먼저 둘러봤습니다. \n\n#토요타 #크라운 #하이브리드 \n\n※ 이 콘텐츠는 한국토요타자동차의 행사에 초청되어 제작됐습니다. \n\n00:00 인트로\n02:10 익스테리어 디자인\n08:57 1열 공간과 기능\n12:00 2열 공간과 기능",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p0MihnP18q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p0MihnP18q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p0MihnP18q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p0MihnP18q8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p0MihnP18q8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "토요타",
+          "크라운",
+          "크로스오버",
+          "아발론",
+          "하이브리드",
+          "익스테리어",
+          "인테리어",
+          "옵션",
+          "기능",
+          "공간",
+          "헤드룸",
+          "레그룸",
+          "전동트렁크",
+          "파워트레인",
+          "가격",
+          "그랜저",
+          "렉서스",
+          "자동차",
+          "모빌리티",
+          "시어머니",
+          "카밥",
+          "시승기",
+          "시승영상",
+          "쇼케이스",
+          "신차발표회",
+          "Toyota",
+          "Crown",
+          "Hybrid"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "시승 앞두고 만난 일본의 그랜저 I 토요타 크라운 크로스오버",
+          "description": "토요타가 올해 두 번째 신차로 크라운 크로스오버를 들여왔습니다. \n아발론의 자리를 대체하는 토요타의 플래그십 모델로\n무려 16세대를 맞이한 유구한 전통성을 가진 모델입니다. \n\n이번 주에 진행될 시승을 앞두고 쇼케이스에서 \n익스테리어와 인테리어 먼저 둘러봤습니다. \n\n#토요타 #크라운 #하이브리드 \n\n※ 이 콘텐츠는 한국토요타자동차의 행사에 초청되어 제작됐습니다. \n\n00:00 인트로\n02:10 익스테리어 디자인\n08:57 1열 공간과 기능\n12:00 2열 공간과 기능"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GLciLH9hOA4ngqILEkqaocK7gzA",
+      "id": "BnPNAQKhEpo",
+      "snippet": {
+        "publishedAt": "2023-06-01T08:00:04Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]쉐보레만 2대, 8년 째 타고 있습니다 I 트랙스 크로스오버 액티브",
+        "description": "자동차 콘텐츠로 밥 벌어 먹고 살아야 하는 채널 [카밥]! \n\nM300 스파크부터 올 뉴 크루즈까지 \n8년 동안 2대의 쉐보레 차를 운용했던 '전직'(이젠 아니야...)쉐슬람으로서\n착한 가격으로 자동차 시장을 흔들고 있는 \n트랙스 크로스오버 액티브 모델을 시승해봤습니다. \n\n쉐보레의 '엔트리'라는 것만 기억한다면 제법 괜찮은 차입니다. \n\n#쉐보레 #트랙스크로스오버 #시승기 \n\n※ 이 콘텐츠는 GM으로부터 시승차를 제공 받아 제작되었습니다. \n\n00:00 인트로\n01:11 빠른 결론?\n05:13 파워트레인\n13:33 ADAS\n14:57 승차감\n16:37 하체 성능\n19:32 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BnPNAQKhEpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BnPNAQKhEpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BnPNAQKhEpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BnPNAQKhEpo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BnPNAQKhEpo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "쉐보레",
+          "트랙스",
+          "크로스오버",
+          "액티브",
+          "시승기",
+          "시승영상",
+          "쉐슬람",
+          "파워트레인",
+          "엔트리",
+          "스파크",
+          "단점",
+          "장점",
+          "가격",
+          "ADAS",
+          "반자율주행",
+          "승차감",
+          "서스펜션",
+          "코너링",
+          "핸들링",
+          "하체",
+          "기본기",
+          "미션",
+          "3기통",
+          "Gen3",
+          "크루즈",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재",
+          "Trax",
+          "Crossover",
+          "Chevrolet",
+          "Cruze"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]쉐보레만 2대, 8년 째 타고 있습니다 I 트랙스 크로스오버 액티브",
+          "description": "자동차 콘텐츠로 밥 벌어 먹고 살아야 하는 채널 [카밥]! \n\nM300 스파크부터 올 뉴 크루즈까지 \n8년 동안 2대의 쉐보레 차를 운용했던 '전직'(이젠 아니야...)쉐슬람으로서\n착한 가격으로 자동차 시장을 흔들고 있는 \n트랙스 크로스오버 액티브 모델을 시승해봤습니다. \n\n쉐보레의 '엔트리'라는 것만 기억한다면 제법 괜찮은 차입니다. \n\n#쉐보레 #트랙스크로스오버 #시승기 \n\n※ 이 콘텐츠는 GM으로부터 시승차를 제공 받아 제작되었습니다. \n\n00:00 인트로\n01:11 빠른 결론?\n05:13 파워트레인\n13:33 ADAS\n14:57 승차감\n16:37 하체 성능\n19:32 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ph2UtorOMhDEKesaU6hFO9_fj74",
+      "id": "dc1-VgwDNZc",
+      "snippet": {
+        "publishedAt": "2023-05-29T03:00:23Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]하필 처음 탄 테슬라가 끝판왕 I 테슬라 모델S 플래드",
+        "description": "자동차 콘텐츠로 밥 벌어 먹어야 하는 채널 [카밥]! \n\n얼마 전 국내에 출시한 테슬라 모델S 플래드를 시승해봤습니다.\n3개의 전기 모터를 탑재해 제로백 2.1초, 최고 출력 1,020마력을 자랑하는\n탈 자동차급 스펙을 가진 차량입니다. \n\n문제는 제가 테슬라를 처음 타본다는 것이죠. \n테슬라라는 브랜드도 파악하고 모델S도 오래 타보고 싶어서\n서울에서 부산까지 시승해봤습니다.\n과연 한 번에 갈 수 있을까요? 간다면 남는 충전량은 얼마일까요? \n\n#테슬라 #모델S #시승기 \n\n※ 이 콘텐츠는 테슬라 코리아의 시승차로 제작되었습니다. \n\n00:00 인트로\n02:27 기존 자동차와는 완전 다른 사용법(상암 출발)\n03:44 인테리어와 1열 공간/신기한 기능들\n12:48 파워트레인(충주휴게소)\n17:49 승차감\n19:58 제로백 2.1초(칠곡휴게소)\n22:28 FSD\n25:15 NVH와 오디오\n27:02 부산 도착 결과\n28:31 2열 공간/트렁크/프렁크\n32:25 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dc1-VgwDNZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dc1-VgwDNZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dc1-VgwDNZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/dc1-VgwDNZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/dc1-VgwDNZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "시승기",
+          "시승영상",
+          "테슬라",
+          "모델S",
+          "플래드",
+          "부산",
+          "서울",
+          "FSD",
+          "장거리",
+          "승차감",
+          "파워트레인",
+          "제로백",
+          "급가속",
+          "ADAS",
+          "오토파일럿",
+          "Model S",
+          "Plaid",
+          "Tesla",
+          "일론머스크",
+          "회생제동",
+          "품질",
+          "내장재",
+          "단점",
+          "장점",
+          "인테리어",
+          "요크스티어링휠",
+          "공간",
+          "크기",
+          "배터리",
+          "충전",
+          "전기차",
+          "오디오",
+          "인포테인먼트",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "권혁재",
+          "시어머니",
+          "카밥"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]하필 처음 탄 테슬라가 끝판왕 I 테슬라 모델S 플래드",
+          "description": "자동차 콘텐츠로 밥 벌어 먹어야 하는 채널 [카밥]! \n\n얼마 전 국내에 출시한 테슬라 모델S 플래드를 시승해봤습니다.\n3개의 전기 모터를 탑재해 제로백 2.1초, 최고 출력 1,020마력을 자랑하는\n탈 자동차급 스펙을 가진 차량입니다. \n\n문제는 제가 테슬라를 처음 타본다는 것이죠. \n테슬라라는 브랜드도 파악하고 모델S도 오래 타보고 싶어서\n서울에서 부산까지 시승해봤습니다.\n과연 한 번에 갈 수 있을까요? 간다면 남는 충전량은 얼마일까요? \n\n#테슬라 #모델S #시승기 \n\n※ 이 콘텐츠는 테슬라 코리아의 시승차로 제작되었습니다. \n\n00:00 인트로\n02:27 기존 자동차와는 완전 다른 사용법(상암 출발)\n03:44 인테리어와 1열 공간/신기한 기능들\n12:48 파워트레인(충주휴게소)\n17:49 승차감\n19:58 제로백 2.1초(칠곡휴게소)\n22:28 FSD\n25:15 NVH와 오디오\n27:02 부산 도착 결과\n28:31 2열 공간/트렁크/프렁크\n32:25 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "z-FF6z0z7iWiMlTjLwGRdu-u5XM",
+      "id": "p-fDOX8xOig",
+      "snippet": {
+        "publishedAt": "2023-05-26T08:00:20Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "테슬라 모델S 플래드의 미친 점 3가지",
+        "description": "#shorts #테슬라 #모델S",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p-fDOX8xOig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p-fDOX8xOig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p-fDOX8xOig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/p-fDOX8xOig/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/p-fDOX8xOig/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "shorts",
+          "테슬라",
+          "모델S",
+          "플래드",
+          "Tesla",
+          "Model S",
+          "Plaid",
+          "FSD",
+          "오토파일럿",
+          "오디오",
+          "ADAS",
+          "브브걸",
+          "브레이브걸스",
+          "카라",
+          "제로백",
+          "드래그 스트립 모드",
+          "성능",
+          "쇼츠",
+          "전기차"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "테슬라 모델S 플래드의 미친 점 3가지",
+          "description": "#shorts #테슬라 #모델S"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "CDwgieHY9tiPTFZTlnF7xqwDq7g",
+      "id": "ief1l4wjkss",
+      "snippet": {
+        "publishedAt": "2023-05-22T08:00:16Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]차에 큰 관심이 없다? 이거 사시면 됩니다 I QM6 LPe",
+        "description": "자동차 콘텐츠로 밥 벌어 먹어야 하는 채널 [카밥]! \n\n2016년에 나온 QM6는 모델 체인지 주기가 지났지만\n어른들의 사정으로 내년까지는 더 힘을 내줘야 합니다. \n그래서 단행한 2차 부분 변경! \n과연 8살 QM6는 아직 구매할 가치가 있는 차일까요? \n가성비 좋은 트림과 옵션까지 추천드립니다. \n\n※ 영상 속 스마트폰 무선 충전기 CF-1500 구매 링크는?? ⬇⬇⬇\nhttps://www.tagshop.co.kr/goods/goods_view.php?goodsNo=1000004841\n\n#시승기 #QM6 #LPe \n\n※이 콘텐츠는 르노코리아의 시승차 제공으로 제작되었습니다. \n\n00:00 인트로&익스테리어\n02:54 1열 공간&인테리어\n07:58 2열 공간\n09:39 트렁크\n10:58 파워트레인\n17:29 ADAS...?\n18:58 승차감\n20:57 총평과 구매 추천 트림&옵션",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ief1l4wjkss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ief1l4wjkss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ief1l4wjkss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ief1l4wjkss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ief1l4wjkss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "시승기",
+          "QM6",
+          "LPe",
+          "페이스리프트",
+          "부분변경",
+          "LPG",
+          "SUV",
+          "파워트레인",
+          "승차감",
+          "인포테인먼트",
+          "노래방",
+          "유튜브",
+          "르노코리아",
+          "느로삼성",
+          "추천",
+          "트림",
+          "LE",
+          "RE",
+          "프리미에르",
+          "가격",
+          "옵션",
+          "가성비",
+          "인테리어",
+          "출력",
+          "힘부족",
+          "NVH",
+          "정숙성",
+          "자동차",
+          "모빌리티",
+          "시승영상",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]차에 큰 관심이 없다? 이거 사시면 됩니다 I QM6 LPe",
+          "description": "자동차 콘텐츠로 밥 벌어 먹어야 하는 채널 [카밥]! \n\n2016년에 나온 QM6는 모델 체인지 주기가 지났지만\n어른들의 사정으로 내년까지는 더 힘을 내줘야 합니다. \n그래서 단행한 2차 부분 변경! \n과연 8살 QM6는 아직 구매할 가치가 있는 차일까요? \n가성비 좋은 트림과 옵션까지 추천드립니다. \n\n※ 영상 속 스마트폰 무선 충전기 CF-1500 구매 링크는?? ⬇⬇⬇\nhttps://www.tagshop.co.kr/goods/goods_view.php?goodsNo=1000004841\n\n#시승기 #QM6 #LPe \n\n※이 콘텐츠는 르노코리아의 시승차 제공으로 제작되었습니다. \n\n00:00 인트로&익스테리어\n02:54 1열 공간&인테리어\n07:58 2열 공간\n09:39 트렁크\n10:58 파워트레인\n17:29 ADAS...?\n18:58 승차감\n20:57 총평과 구매 추천 트림&옵션"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "XoAFMxGmE2ZFw8hZgnfKr_csUrE",
+      "id": "QROHjfNtkAA",
+      "snippet": {
+        "publishedAt": "2023-05-19T08:00:17Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]SUV모델보다 이게 더 좋은데? I 렉스턴 스포츠 칸 쿨멘",
+        "description": "자동차 콘텐츠로 밥 벌어먹어야 하는 채널 [카밥]! \n\n지난 번 SUV모델인 렉스턴 뉴 아레나에 이어서\n바로 렉스턴 스포츠 칸 쿨멘을 시승해봤습니다. \n제 개인적인 취향으로는 SUV 모델보다 더 좋았는데요, \n무쏘 스포츠부터 픽업을 20년 넘게 만든 짬바가 느껴졌습니다.\n\n#시승기 #렉스턴스포츠 #쿨멘 \n\n※ 이 콘텐츠는 KG모빌리티의 행사에 초청 받아 제작되었습니다.\n\n00:00 SUV 뉴 아레나와 다른 점\n01:35 파워트레인 특성\n02:21 새롭게 추가된 ADAS 기능\n02:59 승차감은?\n06:08 아쉬운 점\n09:01 쿨멘 시승 느낌\n09:37 렉스턴 스포츠 칸 쿨멘 오프로딩\n11:28 렉스턴 뉴 아레나 오프로딩\n13:08 시승 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QROHjfNtkAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QROHjfNtkAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QROHjfNtkAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QROHjfNtkAA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QROHjfNtkAA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "시승기",
+          "시승영상",
+          "렉스턴",
+          "스포츠",
+          "칸",
+          "쿨멘",
+          "렉스턴스포츠",
+          "픽업트럭",
+          "뉴아레나",
+          "SUV",
+          "승차감",
+          "엔진",
+          "미션",
+          "KG모빌리티",
+          "쌍용",
+          "오디오",
+          "안드로이드오토",
+          "애플카플레이",
+          "오프로드",
+          "조선픽업",
+          "시에라",
+          "레인저",
+          "ADAS",
+          "반자율주행",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]SUV모델보다 이게 더 좋은데? I 렉스턴 스포츠 칸 쿨멘",
+          "description": "자동차 콘텐츠로 밥 벌어먹어야 하는 채널 [카밥]! \n\n지난 번 SUV모델인 렉스턴 뉴 아레나에 이어서\n바로 렉스턴 스포츠 칸 쿨멘을 시승해봤습니다. \n제 개인적인 취향으로는 SUV 모델보다 더 좋았는데요, \n무쏘 스포츠부터 픽업을 20년 넘게 만든 짬바가 느껴졌습니다.\n\n#시승기 #렉스턴스포츠 #쿨멘 \n\n※ 이 콘텐츠는 KG모빌리티의 행사에 초청 받아 제작되었습니다.\n\n00:00 SUV 뉴 아레나와 다른 점\n01:35 파워트레인 특성\n02:21 새롭게 추가된 ADAS 기능\n02:59 승차감은?\n06:08 아쉬운 점\n09:01 쿨멘 시승 느낌\n09:37 렉스턴 스포츠 칸 쿨멘 오프로딩\n11:28 렉스턴 뉴 아레나 오프로딩\n13:08 시승 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "en3GLfcFz_cSudJWx33cU8w1ef0",
+      "id": "wNChSUHg3_0",
+      "snippet": {
+        "publishedAt": "2023-05-14T03:00:25Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]터프한 외모지만 생각보다 친절한 SUV I 렉스턴 뉴 아레나",
+        "description": "자동차 콘텐츠로 밥 벌어 먹고 싶은 채널 [카밥]!\n\n최근 KG모빌리티가 부분 변경해서 출시한 렉스턴 뉴 아레나,\n렉스턴 스포츠 쿨멘 시승 행사인 DMZ 익스트림 트레일에 다녀왔습니다.\n첫번째로 보여드리는 시승기는 렉스턴 뉴 아레나입니다. \n프레임 바디에 집채만한 덩치, 카리스마 있는 생김새와 다르게\n어쩌면 과도하다 싶을 정도로 친절한 기능들이 많이 들어가 있습니다. \n렉스턴 스포츠 쿨멘의 시승기도 많은 기대 부탁드립니다. \n\n#렉스턴 #SUV #시승기 \n\n※ 이 콘텐츠는 KG모빌리티의 행사에 초청 받아 제작되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wNChSUHg3_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wNChSUHg3_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wNChSUHg3_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wNChSUHg3_0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wNChSUHg3_0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "KG모빌리티",
+          "렉스턴",
+          "뉴아레나",
+          "SUV",
+          "부분변경",
+          "시승기",
+          "시승영상",
+          "승차감",
+          "파워트레인",
+          "옵션",
+          "핸들링",
+          "ADAS",
+          "프레임바디",
+          "렉스턴 스포츠",
+          "쿨멘",
+          "쌍용차",
+          "모하비",
+          "정리정돈",
+          "시어머니",
+          "카밥",
+          "위키트리",
+          "자동차",
+          "모빌리티",
+          "권혁재",
+          "오프로드",
+          "DMZ"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]터프한 외모지만 생각보다 친절한 SUV I 렉스턴 뉴 아레나",
+          "description": "자동차 콘텐츠로 밥 벌어 먹고 싶은 채널 [카밥]!\n\n최근 KG모빌리티가 부분 변경해서 출시한 렉스턴 뉴 아레나,\n렉스턴 스포츠 쿨멘 시승 행사인 DMZ 익스트림 트레일에 다녀왔습니다.\n첫번째로 보여드리는 시승기는 렉스턴 뉴 아레나입니다. \n프레임 바디에 집채만한 덩치, 카리스마 있는 생김새와 다르게\n어쩌면 과도하다 싶을 정도로 친절한 기능들이 많이 들어가 있습니다. \n렉스턴 스포츠 쿨멘의 시승기도 많은 기대 부탁드립니다. \n\n#렉스턴 #SUV #시승기 \n\n※ 이 콘텐츠는 KG모빌리티의 행사에 초청 받아 제작되었습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Qielmeus_OzocZ-1GFjNrlNVKyo",
+      "id": "n5aWfUr0h9E",
+      "snippet": {
+        "publishedAt": "2023-05-12T08:00:31Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기] 1.6과 2.5는 거의 다른 차네 I 쏘나타 디 엣지",
+        "description": "자동차 콘텐츠로 밥 벌어 먹어야 하는 채널, [카밥]! \n\n오늘은 현대자동차의 30년 이상 이어져 온 헤리티지 중형 세단 \n쏘나타 DN8의 부분 변경 모델인 디 엣지를 시승해봤습니다. \n1.6ℓ 터보 모델과 2.5ℓ 터보 모델을 동시 시승해봤는데\n둘은 거의 다른 차량에 가깝습니다. \n\n#쏘나타 #시승기 #세단 \n\n00:00 인트로\n00:37 2.5ℓ 터보 시승\n10:52 1.6ℓ 터보 시승\n16:19 총평\n\n※ 이 콘텐츠는 현대자동차의 행사에 초청 받아 제작되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n5aWfUr0h9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n5aWfUr0h9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n5aWfUr0h9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/n5aWfUr0h9E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/n5aWfUr0h9E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "쏘나타",
+          "디엣지",
+          "1.6",
+          "2.5",
+          "N라인",
+          "터보",
+          "세단",
+          "시승기",
+          "시승영상",
+          "가격",
+          "승차감",
+          "인테리어",
+          "ADAS",
+          "파워트레인",
+          "성능",
+          "헤리티지",
+          "내연기관",
+          "중형세단",
+          "K5",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "카밥",
+          "시어머니",
+          "현대자동차",
+          "현대차",
+          "기아",
+          "코너링",
+          "서스펜션",
+          "하체"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기] 1.6과 2.5는 거의 다른 차네 I 쏘나타 디 엣지",
+          "description": "자동차 콘텐츠로 밥 벌어 먹어야 하는 채널, [카밥]! \n\n오늘은 현대자동차의 30년 이상 이어져 온 헤리티지 중형 세단 \n쏘나타 DN8의 부분 변경 모델인 디 엣지를 시승해봤습니다. \n1.6ℓ 터보 모델과 2.5ℓ 터보 모델을 동시 시승해봤는데\n둘은 거의 다른 차량에 가깝습니다. \n\n#쏘나타 #시승기 #세단 \n\n00:00 인트로\n00:37 2.5ℓ 터보 시승\n10:52 1.6ℓ 터보 시승\n16:19 총평\n\n※ 이 콘텐츠는 현대자동차의 행사에 초청 받아 제작되었습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "05Wphs5OqHIzqWVD7C32DZcUpTw",
+      "id": "LkfCY2fqHMs",
+      "snippet": {
+        "publishedAt": "2023-05-08T11:07:40Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]트림이 와일드트랙인데는 이유가 있었다 I 포드 레인저 와일드트랙",
+        "description": "자동차 콘텐츠로 밥 벌어먹고 싶습니다! 카밥!\n\n포드의 4세대 레인저 와일드트랙을 시승해봤습니다. \n익스테리어/적재함/인테리어/ADAS/파워트레인/승차감/오프로드 등\n다양하게 살펴봤습니다. \n\n#픽업트럭 #시승기 #와일드트랙 \n\n00:00 채널 개편 안내!\n00:33 인트로\n01:43 익스테리어\n05:11 적재함 활용성\n07:16 1열 공간과 인테리어\n11:14 2열 공간\n12:25 파워트레인\n16:52 ADAS\n17:57 승차감\n19:40 오프로드\n22:38 총평\n\n※ 이 콘텐츠는 포드세일즈서비스코리아의 시승차 제공으로 제작되었습니다",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LkfCY2fqHMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LkfCY2fqHMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LkfCY2fqHMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LkfCY2fqHMs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LkfCY2fqHMs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "포드",
+          "레인저",
+          "와일드트랙",
+          "픽업트럭",
+          "디젤엔진",
+          "랩터",
+          "시승기",
+          "시승영상",
+          "적재중량",
+          "견인력",
+          "카라반",
+          "인테리어",
+          "옵션",
+          "익스테리어",
+          "디자인",
+          "베드",
+          "적재함",
+          "화물칸",
+          "오프로드",
+          "가격",
+          "NVH",
+          "성능",
+          "승차감",
+          "ADAS",
+          "파워트레인",
+          "다이하드",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]트림이 와일드트랙인데는 이유가 있었다 I 포드 레인저 와일드트랙",
+          "description": "자동차 콘텐츠로 밥 벌어먹고 싶습니다! 카밥!\n\n포드의 4세대 레인저 와일드트랙을 시승해봤습니다. \n익스테리어/적재함/인테리어/ADAS/파워트레인/승차감/오프로드 등\n다양하게 살펴봤습니다. \n\n#픽업트럭 #시승기 #와일드트랙 \n\n00:00 채널 개편 안내!\n00:33 인트로\n01:43 익스테리어\n05:11 적재함 활용성\n07:16 1열 공간과 인테리어\n11:14 2열 공간\n12:25 파워트레인\n16:52 ADAS\n17:57 승차감\n19:40 오프로드\n22:38 총평\n\n※ 이 콘텐츠는 포드세일즈서비스코리아의 시승차 제공으로 제작되었습니다"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wr7L4tVzYmjmsx4Uq5pZIzUWv2w",
+      "id": "z8-t4t6PLe8",
+      "snippet": {
+        "publishedAt": "2023-05-05T01:00:17Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "인테리어만 보면 갓 출시한 완전 새차 I 렉스턴 뉴 아레나 / 렉스턴 스포츠 쿨멘",
+        "description": "KG모빌리티가 렉스턴 라인업의 부분 변경 모델을 출시했습니다. \nSUV는 '뉴 아레나'라는 이름으로 출시됐고 \n픽업트럭인 스포츠에는 '쿨멘'이라는 트림이 추가되었습니다. \n한정된 예산으로 진행했을 것이기에 그렇게 큰 기대는 없었는데\n생각보다 제법 트렌디한 변화들이 돋보였습니다. \n\n#렉스턴 #쿨멘 #픽업트럭",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z8-t4t6PLe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z8-t4t6PLe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z8-t4t6PLe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/z8-t4t6PLe8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/z8-t4t6PLe8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "렉스턴",
+          "부분변경",
+          "렉스턴 스포츠",
+          "쿨멘",
+          "뉴 아레나",
+          "SUV",
+          "인테리어",
+          "픽업트럭",
+          "쌍용",
+          "KG모빌리티",
+          "튜닝페스티벌",
+          "렉스턴 스포츠 칸",
+          "인포테인먼트",
+          "4륜구동",
+          "자동차",
+          "모빌리티",
+          "페이스리프트",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "인테리어만 보면 갓 출시한 완전 새차 I 렉스턴 뉴 아레나 / 렉스턴 스포츠 쿨멘",
+          "description": "KG모빌리티가 렉스턴 라인업의 부분 변경 모델을 출시했습니다. \nSUV는 '뉴 아레나'라는 이름으로 출시됐고 \n픽업트럭인 스포츠에는 '쿨멘'이라는 트림이 추가되었습니다. \n한정된 예산으로 진행했을 것이기에 그렇게 큰 기대는 없었는데\n생각보다 제법 트렌디한 변화들이 돋보였습니다. \n\n#렉스턴 #쿨멘 #픽업트럭"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QNcs_6dbbA8Fo0F_v_AX-TwCYmc",
+      "id": "HAskZuqmjtU",
+      "snippet": {
+        "publishedAt": "2023-05-04T03:00:12Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "성수동에서 직접 체험할 수 있는 EV9의 신기술",
+        "description": "E-GMP플랫폼 바탕의 대형 전기 SUV, EV9이 사전 계약에 들어갔습니다.\n하지만 구독 시스템, HDP등 생소한 신기술들이 대거 적용되어\n구매자의 입장에서는 다소 혼동스러울 수 있습니다. \n이를 해소하기 위해 기아가 성수에 위치한 기아 EV 언플러그드 그라운드에\nEV9을 전시하고 신기술을 체험할 수 있는 공간으로 리뉴얼 했습니다. \n\n#EV9 #HDP #성수 \n\n※이 콘텐츠는 기아의 행사에 초청 받아 제작되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HAskZuqmjtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HAskZuqmjtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HAskZuqmjtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/HAskZuqmjtU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/HAskZuqmjtU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "EV9",
+          "HDP",
+          "기아커넥트스토어",
+          "성수",
+          "기아EV언플러그드그라운드",
+          "디지털라이팅",
+          "구독서비스",
+          "자율주행",
+          "전기차",
+          "SUV",
+          "사전계약",
+          "실차",
+          "시트배열",
+          "전시",
+          "자동차",
+          "모빌리티",
+          "시어머니",
+          "카밥",
+          "위키트리",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "성수동에서 직접 체험할 수 있는 EV9의 신기술",
+          "description": "E-GMP플랫폼 바탕의 대형 전기 SUV, EV9이 사전 계약에 들어갔습니다.\n하지만 구독 시스템, HDP등 생소한 신기술들이 대거 적용되어\n구매자의 입장에서는 다소 혼동스러울 수 있습니다. \n이를 해소하기 위해 기아가 성수에 위치한 기아 EV 언플러그드 그라운드에\nEV9을 전시하고 신기술을 체험할 수 있는 공간으로 리뉴얼 했습니다. \n\n#EV9 #HDP #성수 \n\n※이 콘텐츠는 기아의 행사에 초청 받아 제작되었습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ugKFYMgRPOxXfMAFMtlD27rQxJ0",
+      "id": "YssGz2n_vos",
+      "snippet": {
+        "publishedAt": "2023-05-01T09:00:16Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]서스펜션이 범상치 않다 I BMW X1 sDrive 20i M Line",
+        "description": "일반적으로 전고가 높은 SUV는 운전재미가 경감되기 마련입니다. \n특히 전륜구동의 엔트리 SUV라는 장르는 더더욱 그렇죠. \n그런데 BMW X1 sDrive 20i M Line... 이 차 뭔가 범상치 않습니다. \n\n#BMW #X1 #시승기 \n\n※ 이 콘텐츠는 BMW 코리아의 시승차를 지원 받아 제작되었습니다.\n\n00:00 익스테리어 디자인\n04:48 1열 공간과 인테리어\n09:06 2열과 트렁크\n12:32 사운드 시스템\n13:05 파워트레인\n17:53 ADAS\n18:48 하체 성능\n22:12 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YssGz2n_vos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YssGz2n_vos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YssGz2n_vos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YssGz2n_vos/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YssGz2n_vos/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "BMW",
+          "X1",
+          "sDirve",
+          "20i",
+          "M Line",
+          "소형SUV",
+          "엔트리",
+          "전륜",
+          "시승기",
+          "시승영상",
+          "파워트레인",
+          "승차감",
+          "코너링",
+          "디자인",
+          "익스테리어",
+          "인테리어",
+          "운전재미",
+          "서스펜션",
+          "미니",
+          "ADAS",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "자동차",
+          "모빌리티"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]서스펜션이 범상치 않다 I BMW X1 sDrive 20i M Line",
+          "description": "일반적으로 전고가 높은 SUV는 운전재미가 경감되기 마련입니다. \n특히 전륜구동의 엔트리 SUV라는 장르는 더더욱 그렇죠. \n그런데 BMW X1 sDrive 20i M Line... 이 차 뭔가 범상치 않습니다. \n\n#BMW #X1 #시승기 \n\n※ 이 콘텐츠는 BMW 코리아의 시승차를 지원 받아 제작되었습니다.\n\n00:00 익스테리어 디자인\n04:48 1열 공간과 인테리어\n09:06 2열과 트렁크\n12:32 사운드 시스템\n13:05 파워트레인\n17:53 ADAS\n18:48 하체 성능\n22:12 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "NW663sCzs2Q0_wXVD8fM1sDxonU",
+      "id": "JUWHk5dp0Ug",
+      "snippet": {
+        "publishedAt": "2023-04-27T09:00:14Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[셀린권 시승기]SUV는 싫어하지만 한 대 가지고 싶다...? I BMW X1 20i M Line",
+        "description": "3세대 모델로 돌아온 신형 X1의 2.0 휘발유 모델을\n15년차 카 레이싱 선수이자 카럽스쿨 대표인 셀린권과 함께 타봤습니다!\n\n[시어머니]채널과 카럽스쿨이 함께 진행중인\n카럽스쿨 수강권 50% 할인 이벤트 많은 참여 부탁드립니다! \n\n신청 링크 : https://docs.google.com/forms/d/1CktAvr94JSmOZT8nRB9lGjXbGTdIxV4aIAt9cXRfJro/edit\n\n#셀린권 #X1 #시승기\n\n※이 콘텐츠는 BMW 코리아의 시승차 지원으로 제작되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JUWHk5dp0Ug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JUWHk5dp0Ug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JUWHk5dp0Ug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JUWHk5dp0Ug/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JUWHk5dp0Ug/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "시승기",
+          "BMW",
+          "셀린권",
+          "카레이서",
+          "X1",
+          "가솔린",
+          "SUV",
+          "M라인",
+          "카럽스쿨",
+          "드라이빙스쿨",
+          "소형SUV",
+          "승차감",
+          "핸들링",
+          "ADAS",
+          "디자인",
+          "트렁크",
+          "공간",
+          "골프",
+          "시승영상",
+          "GLA",
+          "Q3",
+          "파워트레인",
+          "위키트리",
+          "시어머니",
+          "카밥",
+          "자동차",
+          "모빌리티",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[셀린권 시승기]SUV는 싫어하지만 한 대 가지고 싶다...? I BMW X1 20i M Line",
+          "description": "3세대 모델로 돌아온 신형 X1의 2.0 휘발유 모델을\n15년차 카 레이싱 선수이자 카럽스쿨 대표인 셀린권과 함께 타봤습니다!\n\n[시어머니]채널과 카럽스쿨이 함께 진행중인\n카럽스쿨 수강권 50% 할인 이벤트 많은 참여 부탁드립니다! \n\n신청 링크 : https://docs.google.com/forms/d/1CktAvr94JSmOZT8nRB9lGjXbGTdIxV4aIAt9cXRfJro/edit\n\n#셀린권 #X1 #시승기\n\n※이 콘텐츠는 BMW 코리아의 시승차 지원으로 제작되었습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "0MEFYUCi0_isHNyRaNSRQNoV5Sw",
+      "id": "w9RcYS86rOE",
+      "snippet": {
+        "publishedAt": "2023-04-21T09:00:40Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "폭스바겐이 출시한다는 대형 SUV 국내 테스트 목격 영상 I 폭스바겐 아틀라스",
+        "description": "#shorts #폭스바겐 #아틀라스",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w9RcYS86rOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w9RcYS86rOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w9RcYS86rOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/w9RcYS86rOE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/w9RcYS86rOE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "shorts",
+          "폭스바겐",
+          "아틀라스",
+          "대형SUV",
+          "팰리세이드",
+          "테스트",
+          "스파이샷",
+          "spyshot",
+          "목격",
+          "scoop",
+          "Atlas",
+          "Volkswagen",
+          "X1",
+          "셀린권",
+          "임시넘버",
+          "임시번호",
+          "테스트카"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "폭스바겐이 출시한다는 대형 SUV 국내 테스트 목격 영상 I 폭스바겐 아틀라스",
+          "description": "#shorts #폭스바겐 #아틀라스"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4Ms4tso-cVJ0ydgJ4s5Z75P-6eA",
+      "id": "lqP49NS7_sE",
+      "snippet": {
+        "publishedAt": "2023-04-18T09:00:24Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[이벤트] 운전 경력 15분이 15년차 레이서에게 운전을 배우면 생기는 일 I 시어머니x카럽스쿨",
+        "description": "※ 이벤트 참여 방법은 영상 안에 자세히 설명되어 있습니다\n\n김현중PD는 작년 초 면허 취득 이후 딱 15분 운전해 본 그야말로 장롱면허입니다. \n최근 면허 취득 1주년을 맞이해 운전을 다시 배워야 겠다는 현중PD의 말에 팀장의 재량으로 복지를 실현시켰습니다. \n카럽스쿨에서 15년차 레이싱 선수에게 직접 운전을 배울 수 있게 말이죠. \n\n※ 이벤트 안내\n만약 신청자가 폭주한다면 조기 마감할 수 있는 점 양해 부탁드립니다. \n- 교육 예정일 : 5월 14일 일요일 19시\n- 교육 장소 : 경기도 파주시 광탄면 심궁로 230, 레인조\n- 교육 준비물 : 자차/설레는 마음\n- 신청 구글폼 : https://docs.google.com/forms/d/1CktAvr94JSmOZT8nRB9lGjXbGTdIxV4aIAt9cXRfJro/edit\n- 카럽스쿨 홈페이지 : carloveschool.com\n\n#셀린권 #카럽스쿨 #초보운전",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lqP49NS7_sE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lqP49NS7_sE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lqP49NS7_sE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/lqP49NS7_sE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/lqP49NS7_sE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "셀린권",
+          "카럽스쿨",
+          "초보운전",
+          "드라이빙스쿨",
+          "슬라럼",
+          "서킷",
+          "운전교습",
+          "이벤트",
+          "운전강습",
+          "드라이버",
+          "레이싱",
+          "선수",
+          "카레이서",
+          "권보미",
+          "할인",
+          "시어머니",
+          "권혁재",
+          "위키트리",
+          "시승기",
+          "시승영상",
+          "자동차",
+          "모빌리티",
+          "짐카나",
+          "긴급제동",
+          "긴급회피",
+          "원선회",
+          "엑셀",
+          "브레이크",
+          "안전운전"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[이벤트] 운전 경력 15분이 15년차 레이서에게 운전을 배우면 생기는 일 I 시어머니x카럽스쿨",
+          "description": "※ 이벤트 참여 방법은 영상 안에 자세히 설명되어 있습니다\n\n김현중PD는 작년 초 면허 취득 이후 딱 15분 운전해 본 그야말로 장롱면허입니다. \n최근 면허 취득 1주년을 맞이해 운전을 다시 배워야 겠다는 현중PD의 말에 팀장의 재량으로 복지를 실현시켰습니다. \n카럽스쿨에서 15년차 레이싱 선수에게 직접 운전을 배울 수 있게 말이죠. \n\n※ 이벤트 안내\n만약 신청자가 폭주한다면 조기 마감할 수 있는 점 양해 부탁드립니다. \n- 교육 예정일 : 5월 14일 일요일 19시\n- 교육 장소 : 경기도 파주시 광탄면 심궁로 230, 레인조\n- 교육 준비물 : 자차/설레는 마음\n- 신청 구글폼 : https://docs.google.com/forms/d/1CktAvr94JSmOZT8nRB9lGjXbGTdIxV4aIAt9cXRfJro/edit\n- 카럽스쿨 홈페이지 : carloveschool.com\n\n#셀린권 #카럽스쿨 #초보운전"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "xFn7Lc4E4n5-wjLQbe-bQpN6Bco",
+      "id": "xLdKOR0wmgs",
+      "snippet": {
+        "publishedAt": "2023-04-14T09:00:39Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]미국차에 대한 편견을 싸그리 다 없애주는 차 I GMC 시에라 드날리",
+        "description": "풀 사이즈 픽업트럭은 미국 브랜드들이 가장 잘 만드는 세그먼트입니다.\n시에라 역시 미국에서 판매 순위 6위에 꼽히는 베스트 셀러이기도 하고요.\n다분히 미국적인 자동차이지만\n우리가 흔히 '미국차'라고 했을 때 가지는 고정관념이 잘 못 되었다는 것을 알려주는 차이기도 합니다. \n\n#시승기 #시에라 #픽업트럭 \n\n※ 이 콘텐츠는 GM의 시승 차량 제공으로 제작되었습니다. \n\n00:00 베드의 활용도\n04:13 익스테리어 \n08:08 인테리어와 1열 공간\n13:27 2열 공간\n15:32 파워트레인\n20:24 승차감\n25:16 ADAS와 유의사항\n26:30 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xLdKOR0wmgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xLdKOR0wmgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xLdKOR0wmgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xLdKOR0wmgs/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xLdKOR0wmgs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "GMC",
+          "시에라",
+          "드날리",
+          "픽업트럭",
+          "풀사이즈",
+          "트럭",
+          "화물차",
+          "승차감",
+          "ADAS",
+          "파워트레인",
+          "연비",
+          "브레이크",
+          "베드",
+          "화물칸",
+          "적재량",
+          "카라반",
+          "견인",
+          "인테리어",
+          "익스테리어",
+          "유의사항",
+          "고속도로",
+          "1차선",
+          "V8",
+          "시승기",
+          "시승영상",
+          "위키트리",
+          "시어머니",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]미국차에 대한 편견을 싸그리 다 없애주는 차 I GMC 시에라 드날리",
+          "description": "풀 사이즈 픽업트럭은 미국 브랜드들이 가장 잘 만드는 세그먼트입니다.\n시에라 역시 미국에서 판매 순위 6위에 꼽히는 베스트 셀러이기도 하고요.\n다분히 미국적인 자동차이지만\n우리가 흔히 '미국차'라고 했을 때 가지는 고정관념이 잘 못 되었다는 것을 알려주는 차이기도 합니다. \n\n#시승기 #시에라 #픽업트럭 \n\n※ 이 콘텐츠는 GM의 시승 차량 제공으로 제작되었습니다. \n\n00:00 베드의 활용도\n04:13 익스테리어 \n08:08 인테리어와 1열 공간\n13:27 2열 공간\n15:32 파워트레인\n20:24 승차감\n25:16 ADAS와 유의사항\n26:30 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7DQXPw5ulTvfKhsr9z2258Kzdac",
+      "id": "RGOLPGJzNvA",
+      "snippet": {
+        "publishedAt": "2023-04-12T08:00:11Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "V8 6.2 픽업트럭에 달린 스포츠 모드...?!",
+        "description": "#shorts #시에라 #제로백",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RGOLPGJzNvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RGOLPGJzNvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RGOLPGJzNvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/RGOLPGJzNvA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/RGOLPGJzNvA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": ["shotrs", "시에라", "드날리", "제로백", "V8", "스포츠모드", "풀사이즈", "픽업트럭", "위키트리", "시어머니", "권혁재"],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "V8 6.2 픽업트럭에 달린 스포츠 모드...?!",
+          "description": "#shorts #시에라 #제로백"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "W2q9o8PnOmZE9TpetfxhGaWaQ6k",
+      "id": "vhr2wbeydss",
+      "snippet": {
+        "publishedAt": "2023-04-11T09:00:40Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]강남에서 많이 팔렸다는데... 끌고 다닐 수는 있는 거야? I GMC 시에라 드날리",
+        "description": "GMC 브랜드가 론칭하며 처음으로 출시한 차는 미국을 상징하는 풀 사이즈 픽업트럭, 시에라입니다. \n1억 원에 육박하는 가격을 가진만큼 강남에서 많은 판매가 이뤄졌다고 하는데요\n전장이 6m에 가깝고 전폭은 2m, 휠베이스는 3.7m가 넘는 이 천조국 출신 거인을 서울 시내가 품을 수 있을지 궁금해서 퇴근길에 서울 나들이를 나가봤습니다.\n\n#GMC #시에나 #시승기 \n\n※ 이 콘텐츠는 GM의 시승 차량 제공으로 제작되었습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vhr2wbeydss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vhr2wbeydss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vhr2wbeydss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/vhr2wbeydss/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/vhr2wbeydss/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "시승기",
+          "GMC",
+          "시에라",
+          "드날리",
+          "풀사이즈",
+          "픽업트럭",
+          "F150",
+          "램",
+          "도심주행",
+          "서울",
+          "GM",
+          "ADAS",
+          "엔진",
+          "연비",
+          "주차",
+          "골목",
+          "회기동",
+          "크레이져카페",
+          "트럭",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "시어머니",
+          "권혁재",
+          "시승영상"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]강남에서 많이 팔렸다는데... 끌고 다닐 수는 있는 거야? I GMC 시에라 드날리",
+          "description": "GMC 브랜드가 론칭하며 처음으로 출시한 차는 미국을 상징하는 풀 사이즈 픽업트럭, 시에라입니다. \n1억 원에 육박하는 가격을 가진만큼 강남에서 많은 판매가 이뤄졌다고 하는데요\n전장이 6m에 가깝고 전폭은 2m, 휠베이스는 3.7m가 넘는 이 천조국 출신 거인을 서울 시내가 품을 수 있을지 궁금해서 퇴근길에 서울 나들이를 나가봤습니다.\n\n#GMC #시에나 #시승기 \n\n※ 이 콘텐츠는 GM의 시승 차량 제공으로 제작되었습니다."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4IVGUB9_FkoN-b2E25236J7FKYU",
+      "id": "av6gllqAVuM",
+      "snippet": {
+        "publishedAt": "2023-04-10T08:00:01Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "아우디가 조명 회사라고 불리는 이유.1인칭",
+        "description": "#shorts #A8 #아우디",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/av6gllqAVuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/av6gllqAVuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/av6gllqAVuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/av6gllqAVuM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/av6gllqAVuM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": ["shorts", "아우디", "A8", "55TFSI", "매트릭스", "헤드램프", "라이팅", "라이트", "조명회사"],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "아우디가 조명 회사라고 불리는 이유.1인칭",
+          "description": "#shorts #A8 #아우디"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1W0fllY_O-1bNZhBOf7SKePVmLE",
+      "id": "asy-sFiu7g4",
+      "snippet": {
+        "publishedAt": "2023-04-07T09:00:04Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기] 화려함보다 진중함이 무기인 플래그십 세단 I 아우디 A8L 55TFSI",
+        "description": "독3사의 플래그십 세단 중 가장 오래된 모델이자 내년에 풀체인지를 기다리고 있는 아우디A8. \n부분 변경을 진행하고 치열한 플래그십 세단 시장에서 경쟁중인데요, \n오히려 오래된 모델이면서 부분 변경을 통한 상품성 강화로 경쟁 모델보다 뛰어난 부분도 있었습니다. \n\n#아우디 #A8 #시승기 \n\n※ 이 콘텐츠는 아우디 코리아의 시승 차량으로 제작되었습니다. \n\n00:00 인트로 \n00:58 외관 디자인\n04:51 1열 공간\n07:14 2열 공간\n10:51 파워트레인\n13:43 ADAS\n15:03 승차감\n16:59 핸들링\n18:11 2열 승차감(with 노이)\n21:18 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/asy-sFiu7g4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/asy-sFiu7g4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/asy-sFiu7g4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/asy-sFiu7g4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/asy-sFiu7g4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "아우디",
+          "A8",
+          "시승기",
+          "시승영상",
+          "55TFSI",
+          "플래그십",
+          "S클래스",
+          "7시리즈",
+          "G90",
+          "LWB",
+          "A8L",
+          "승차감",
+          "파워트레인",
+          "NVH",
+          "옵션",
+          "2열승차감",
+          "핸들링",
+          "후륜조향",
+          "뱅앤올룹슨",
+          "에어서스펜션",
+          "조명",
+          "헤드라이트",
+          "램프",
+          "LED",
+          "클래식",
+          "자동차",
+          "모빌리티",
+          "권혁재",
+          "위키트리",
+          "시어머니",
+          "카밥"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기] 화려함보다 진중함이 무기인 플래그십 세단 I 아우디 A8L 55TFSI",
+          "description": "독3사의 플래그십 세단 중 가장 오래된 모델이자 내년에 풀체인지를 기다리고 있는 아우디A8. \n부분 변경을 진행하고 치열한 플래그십 세단 시장에서 경쟁중인데요, \n오히려 오래된 모델이면서 부분 변경을 통한 상품성 강화로 경쟁 모델보다 뛰어난 부분도 있었습니다. \n\n#아우디 #A8 #시승기 \n\n※ 이 콘텐츠는 아우디 코리아의 시승 차량으로 제작되었습니다. \n\n00:00 인트로 \n00:58 외관 디자인\n04:51 1열 공간\n07:14 2열 공간\n10:51 파워트레인\n13:43 ADAS\n15:03 승차감\n16:59 핸들링\n18:11 2열 승차감(with 노이)\n21:18 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6xJGRyBdAnfgGrOdp6YIhHHK4aU",
+      "id": "E-1oe-4ok9I",
+      "snippet": {
+        "publishedAt": "2023-04-05T01:00:07Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "썸네일 속 차는 한정판이라 5억3천인데 완판 I 마세라티 MC20 첼로",
+        "description": "마세라티의 슈퍼카, MC20의 로드스터형 버젼인 MC20 첼로가 국내에 공식 출시됐습니다.\n이탈리아어로 하늘을 뜻하는 '첼로'가 붙은 이 차는 전자동으로 개폐되는 루프가 유리로 되어 있어\n루프를 닫아도 하늘을 볼 수 있는 상당히 낭만적인 차량입니다.\n리터 당 210마력을 뽑아내는 어마무시한 네튜노 엔진을 장착해서 \n최고출력 630마력, 최대토크 73.4kg.m라는 힘을 뿜어냅니다. \n옵션이 붙지 않은 기본 가격은 3억8천만 원\n글로벌 65대 한정 중 국내에 5대 들어왔다는 썸네일 속 모델은 5억3천만 원이라는 가격인데\n이미 올해 물량은 완판됐다고 합니다. \n\n#마세라티 #MC20첼로 #슈퍼카 \n\n※ 본 영상은 마세라티 행사에 초청 받아 제작된 영상입니다. \n\n00:00 인트로\n01:04 MC20과 다른 점\n02:11 루프 개폐 모습\n04:07 파워트레인\n05:27 경량화\n06:48 공기 역학\n08:11 배기음\n08:58 인테리어\n10:26 그래서 얼마?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E-1oe-4ok9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E-1oe-4ok9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E-1oe-4ok9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E-1oe-4ok9I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E-1oe-4ok9I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "마세라티",
+          "MC20첼로",
+          "슈퍼카",
+          "오픈카",
+          "로드스터",
+          "한정판",
+          "프리마세리에",
+          "네튜노",
+          "신차발표회",
+          "페라리",
+          "람보르기니",
+          "포르쉐",
+          "카본터브",
+          "배기음",
+          "시승기",
+          "시승영상",
+          "자동차",
+          "모빌리티",
+          "리미티드",
+          "FMK",
+          "권혁재",
+          "시어머니",
+          "카밥",
+          "위키트리"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "썸네일 속 차는 한정판이라 5억3천인데 완판 I 마세라티 MC20 첼로",
+          "description": "마세라티의 슈퍼카, MC20의 로드스터형 버젼인 MC20 첼로가 국내에 공식 출시됐습니다.\n이탈리아어로 하늘을 뜻하는 '첼로'가 붙은 이 차는 전자동으로 개폐되는 루프가 유리로 되어 있어\n루프를 닫아도 하늘을 볼 수 있는 상당히 낭만적인 차량입니다.\n리터 당 210마력을 뽑아내는 어마무시한 네튜노 엔진을 장착해서 \n최고출력 630마력, 최대토크 73.4kg.m라는 힘을 뿜어냅니다. \n옵션이 붙지 않은 기본 가격은 3억8천만 원\n글로벌 65대 한정 중 국내에 5대 들어왔다는 썸네일 속 모델은 5억3천만 원이라는 가격인데\n이미 올해 물량은 완판됐다고 합니다. \n\n#마세라티 #MC20첼로 #슈퍼카 \n\n※ 본 영상은 마세라티 행사에 초청 받아 제작된 영상입니다. \n\n00:00 인트로\n01:04 MC20과 다른 점\n02:11 루프 개폐 모습\n04:07 파워트레인\n05:27 경량화\n06:48 공기 역학\n08:11 배기음\n08:58 인테리어\n10:26 그래서 얼마?"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sg7RRSObvEoQbQsfpaTRKuasqA8",
+      "id": "_Li3JpJP-Q8",
+      "snippet": {
+        "publishedAt": "2023-04-03T09:00:30Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "코나 일렉트릭과 일반 코나의 디자인 차이는?",
+        "description": "#shorts #코나 #전기차",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Li3JpJP-Q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Li3JpJP-Q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Li3JpJP-Q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_Li3JpJP-Q8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_Li3JpJP-Q8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": ["shorts", "코나", "일렉트릭", "내연기관", "차이", "디자인", "서울모빌리티쇼", "전기차"],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "코나 일렉트릭과 일반 코나의 디자인 차이는?",
+          "description": "#shorts #코나 #전기차"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "94WtZZPgLtc1CZmFBErTSoYOvNA",
+      "id": "trlfI6Qr3g8",
+      "snippet": {
+        "publishedAt": "2023-04-03T02:01:31Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "토레스 전기차 기반의 픽업트럭, KG모빌리티 폼 미쳤다;;",
+        "description": "#shorts #토레스 #전기차",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/trlfI6Qr3g8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/trlfI6Qr3g8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/trlfI6Qr3g8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/trlfI6Qr3g8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/trlfI6Qr3g8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": ["토레스", "EVX", "F100", "전기차", "픽업트럭", "KG모빌리티", "쌍용", "shorts"],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "토레스 전기차 기반의 픽업트럭, KG모빌리티 폼 미쳤다;;",
+          "description": "#shorts #토레스 #전기차"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8946H6ZFHZTxf19gAse6Oe08I7E",
+      "id": "94Wji6rComg",
+      "snippet": {
+        "publishedAt": "2023-03-31T09:53:36Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "부스 별 제일 중요한 한대씩만 맛보여 드립니다 I 2023 서울 모빌리티쇼",
+        "description": "2023 서울 모빌리티쇼가 일산 킨텍스에서 4월9일까지 진행됩니다. \n국산차는 현대, 기아, 제네시스, KG모빌리티, 르노코리아\n수입차는 BMW, 미니, 메르세데스 벤츠, 포르쉐, 테슬라 \n이렇게 10개 브랜드가 참석했습니다. \nBMW와 미니를 묶어서 한 브랜드, \n현대와 제네시스를 묶어서 한 브랜드로 두고\n각 부스에서 제일 중요한 한 대씩만 설명해드립니다.\n\n#EV9 #쏘나타 #서울모빌리티쇼",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/94Wji6rComg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/94Wji6rComg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/94Wji6rComg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/94Wji6rComg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/94Wji6rComg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "서울모빌리티쇼",
+          "BMW",
+          "미니",
+          "테슬라",
+          "메르세데스벤츠",
+          "포르쉐",
+          "벤츠",
+          "현대",
+          "기아",
+          "제네시스",
+          "쌍용",
+          "KG모빌리티",
+          "르노코리아",
+          "XM",
+          "SL",
+          "모델S 플레드",
+          "모델X 플레드",
+          "타이칸",
+          "제니",
+          "제네시스X컨버터블",
+          "쏘나타 디 엣지",
+          "EV9",
+          "EV9 GT라인",
+          "QM6",
+          "QM6 퀘스트",
+          "비전357",
+          "토레스EVX",
+          "KR10",
+          "서울모터쇼"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "부스 별 제일 중요한 한대씩만 맛보여 드립니다 I 2023 서울 모빌리티쇼",
+          "description": "2023 서울 모빌리티쇼가 일산 킨텍스에서 4월9일까지 진행됩니다. \n국산차는 현대, 기아, 제네시스, KG모빌리티, 르노코리아\n수입차는 BMW, 미니, 메르세데스 벤츠, 포르쉐, 테슬라 \n이렇게 10개 브랜드가 참석했습니다. \nBMW와 미니를 묶어서 한 브랜드, \n현대와 제네시스를 묶어서 한 브랜드로 두고\n각 부스에서 제일 중요한 한 대씩만 설명해드립니다.\n\n#EV9 #쏘나타 #서울모빌리티쇼"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "b33vih9CW-eU0vwezm8dr9CIN0o",
+      "id": "O1PtvZ1FtRA",
+      "snippet": {
+        "publishedAt": "2023-03-27T09:00:26Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]파워트레인이 딱히 화려하지는 않은데 매력적이야... I 볼보 V60 크로스컨트리",
+        "description": "지난 번 웨건의 장점을 다룬 1편에 이어 \n파워트레인과 승차감, ADAS를 다룬 2편 영상입니다. \n\nV60 크로스컨트리는 자극적이지 않지만 믿음직한 차입니다.\n그런 모습에서 볼보의 철학이 느껴지기도 합니다. \n다만 친환경이라는 철학이 무색하게 연비는 다소 아쉽습니다. \n\n#볼보 #V60 #승차감\n\n※ 이 콘텐츠는 볼보의 시승 차량으로 제작된 영상입니다. \n\n00:00 1편 영상 다시보기\n00:18 파워트레인 성능\n07:34 ADAS 성능\n08:50 오프로드에서는?\n11:09 승차감과 핸들링\n14:15 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O1PtvZ1FtRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O1PtvZ1FtRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O1PtvZ1FtRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O1PtvZ1FtRA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/O1PtvZ1FtRA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "볼보",
+          "V60크로스컨트리",
+          "웨건",
+          "B5",
+          "마일드하이브리드",
+          "파워트레인",
+          "승차감",
+          "ADAS",
+          "시승기",
+          "시승영상",
+          "오프로드",
+          "코너링",
+          "C세그먼트",
+          "D세그먼트",
+          "SUV",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "시어머니",
+          "권혁재"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]파워트레인이 딱히 화려하지는 않은데 매력적이야... I 볼보 V60 크로스컨트리",
+          "description": "지난 번 웨건의 장점을 다룬 1편에 이어 \n파워트레인과 승차감, ADAS를 다룬 2편 영상입니다. \n\nV60 크로스컨트리는 자극적이지 않지만 믿음직한 차입니다.\n그런 모습에서 볼보의 철학이 느껴지기도 합니다. \n다만 친환경이라는 철학이 무색하게 연비는 다소 아쉽습니다. \n\n#볼보 #V60 #승차감\n\n※ 이 콘텐츠는 볼보의 시승 차량으로 제작된 영상입니다. \n\n00:00 1편 영상 다시보기\n00:18 파워트레인 성능\n07:34 ADAS 성능\n08:50 오프로드에서는?\n11:09 승차감과 핸들링\n14:15 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9YGWyRQJrRi_AD6ah0ELDpnqsRI",
+      "id": "Xvld5JyND78",
+      "snippet": {
+        "publishedAt": "2023-03-24T09:00:32Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "GM의 한국시장 차별...? 트랙스 크로스오버",
+        "description": "#shorts #트랙스크로스오버 #GM",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xvld5JyND78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xvld5JyND78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xvld5JyND78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Xvld5JyND78/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Xvld5JyND78/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": ["shorts", "트랙스", "크로스오버", "GM", "트랙스크로스오버", "사양차이", "한국사양", "전동트렁크", "LED리어램프", "에어밴트", "오토홀드", "샤크안테나", "방향지시등", "사이드미러"],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "GM의 한국시장 차별...? 트랙스 크로스오버",
+          "description": "#shorts #트랙스크로스오버 #GM"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "23_8FwDdyUedmc3tflGTa7SUqrM",
+      "id": "VCbhE-NpTmA",
+      "snippet": {
+        "publishedAt": "2023-03-23T07:00:21Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "GM이 한국시장에 진심일 때 벌어지는 일 I 쉐보레 트랙스 크로스오버",
+        "description": "트레일 블레이저 이후 3년만에 한국에서 생산하는 신차를 발표한 GM\n그동안 여러번 높은 가격 정책으로 논쟁을 일으켰던 GM이 \n갑자기 동급 모델 대비 엄청나게 저렴한 가격표를 들고 나왔습니다. \n\n쉐보레 트랙스 크로스오버, 일단 착한 가격에 호감이 생겼는데요,\n실내외는 어떨지 한번 살펴봤습니다. \n\n#쉐보레 #트랙스크로스오버 #가격 \n\n※ 이 콘텐츠는 GM한국사업장의 행사에 초청 받아 제작된 콘텐츠입니다. \n\n00:00 인트로\n01:02 익스테리어 디자인\n08:36 인테리어 디자인과 공간",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VCbhE-NpTmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VCbhE-NpTmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VCbhE-NpTmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/VCbhE-NpTmA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/VCbhE-NpTmA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "GM",
+          "쉐보레",
+          "트랙스",
+          "크로스오버",
+          "신차발표회",
+          "가격",
+          "RS",
+          "액티브",
+          "익스테리어",
+          "디자인",
+          "인테리어",
+          "옵션",
+          "공간",
+          "품질",
+          "SUV",
+          "3기통",
+          "트랙스 크로스오버",
+          "한국GM",
+          "GM한국사업장",
+          "시승기",
+          "시승영상",
+          "2열",
+          "트렁크",
+          "권혁재",
+          "시어머니",
+          "위키트리",
+          "자동차",
+          "모빌리티"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "GM이 한국시장에 진심일 때 벌어지는 일 I 쉐보레 트랙스 크로스오버",
+          "description": "트레일 블레이저 이후 3년만에 한국에서 생산하는 신차를 발표한 GM\n그동안 여러번 높은 가격 정책으로 논쟁을 일으켰던 GM이 \n갑자기 동급 모델 대비 엄청나게 저렴한 가격표를 들고 나왔습니다. \n\n쉐보레 트랙스 크로스오버, 일단 착한 가격에 호감이 생겼는데요,\n실내외는 어떨지 한번 살펴봤습니다. \n\n#쉐보레 #트랙스크로스오버 #가격 \n\n※ 이 콘텐츠는 GM한국사업장의 행사에 초청 받아 제작된 콘텐츠입니다. \n\n00:00 인트로\n01:02 익스테리어 디자인\n08:36 인테리어 디자인과 공간"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kqWjBO583ErA7HW6tP1xXMhSeAI",
+      "id": "wyL3G4ySHJk",
+      "snippet": {
+        "publishedAt": "2023-03-21T09:00:39Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]이렇게 멋진 차 두고 왜 SUV 사요? I 볼보 V60 크로스컨트리",
+        "description": "한번도 타본 적은 없지만 맘 속에 품어두었던 현실적인 드림카 1순위\n볼보 V60 크로스컨트리를 시승했습니다. \nSUV 천국 대한민국에서 웨건 명가 볼보가 선택한 길은\n웨건에 오프로더의 색채를 입힌 크로스컨트리 모델입니다. \n\n#볼보 #V60 #시승기 \n\n*이 콘텐츠는 볼보의 시승 차량 지원으로 제작된 콘텐츠입니다. \n\n00:00 인트로\n01:19 1열 공간과 편의장비\n10:36 2열 공간과 편의장비\n14:34 트렁크 공간 활용도",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wyL3G4ySHJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wyL3G4ySHJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wyL3G4ySHJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/wyL3G4ySHJk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/wyL3G4ySHJk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "볼보",
+          "V60",
+          "크로스컨트리",
+          "웨건",
+          "왜건",
+          "트렁크",
+          "인테리어",
+          "옵션",
+          "바워스앤윌킨스",
+          "티맵",
+          "시승기",
+          "시승영상",
+          "자동차",
+          "모빌리티",
+          "권혁재",
+          "위키트리",
+          "시어머니",
+          "스칸디나비안"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]이렇게 멋진 차 두고 왜 SUV 사요? I 볼보 V60 크로스컨트리",
+          "description": "한번도 타본 적은 없지만 맘 속에 품어두었던 현실적인 드림카 1순위\n볼보 V60 크로스컨트리를 시승했습니다. \nSUV 천국 대한민국에서 웨건 명가 볼보가 선택한 길은\n웨건에 오프로더의 색채를 입힌 크로스컨트리 모델입니다. \n\n#볼보 #V60 #시승기 \n\n*이 콘텐츠는 볼보의 시승 차량 지원으로 제작된 콘텐츠입니다. \n\n00:00 인트로\n01:19 1열 공간과 편의장비\n10:36 2열 공간과 편의장비\n14:34 트렁크 공간 활용도"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hlvQ9yl1YWbnH_irVltuJORE1n0",
+      "id": "18N8ZAWPe5k",
+      "snippet": {
+        "publishedAt": "2023-03-17T09:00:01Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]전동화 모델 나올때까지 숨 참습니다 I 스타리아 라운지 디젤 7인승",
+        "description": "스타리아 라운지 2.2리터 디젤 H-Track 7인승 모델을 시승해봤습니다.\n1세대 스타렉스부터 그랜드 스타렉스까지 많이 경험해봤기에\n개인적으로 스타리아라는 모델이 많이 궁금했습니다. \n그리고 전동화 모델이 시급하다는 것을 느꼈습니다. \n\n#스타리아라운지 #전동화 #시승기\n\n※이 콘텐츠는 현대자동차의 시승 차량을 지원 받아 제작되었습니다. \n\n00:00 인트로\n00:44 1열 공간\n05:35 2열 공간\n08:57 3열 및 트렁크\n11:25 파워트레인\n17:39 ADAS 및 승차감\n21:04 총평",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18N8ZAWPe5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18N8ZAWPe5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18N8ZAWPe5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/18N8ZAWPe5k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/18N8ZAWPe5k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": [
+          "스타리아라운지",
+          "디젤",
+          "H트랙",
+          "AWD",
+          "4륜구동",
+          "스타리아",
+          "7인승",
+          "전동화",
+          "승합차",
+          "카니발",
+          "시승기",
+          "시승영상",
+          "LPG",
+          "ID.버즈",
+          "E-트랜짓",
+          "E6",
+          "현대차",
+          "알파드",
+          "상용차",
+          "투어러",
+          "카고",
+          "파워트레인",
+          "승차감",
+          "2열",
+          "편의성",
+          "자동차",
+          "모빌리티",
+          "위키트리",
+          "시어머니"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "[시승기]전동화 모델 나올때까지 숨 참습니다 I 스타리아 라운지 디젤 7인승",
+          "description": "스타리아 라운지 2.2리터 디젤 H-Track 7인승 모델을 시승해봤습니다.\n1세대 스타렉스부터 그랜드 스타렉스까지 많이 경험해봤기에\n개인적으로 스타리아라는 모델이 많이 궁금했습니다. \n그리고 전동화 모델이 시급하다는 것을 느꼈습니다. \n\n#스타리아라운지 #전동화 #시승기\n\n※이 콘텐츠는 현대자동차의 시승 차량을 지원 받아 제작되었습니다. \n\n00:00 인트로\n00:44 1열 공간\n05:35 2열 공간\n08:57 3열 및 트렁크\n11:25 파워트레인\n17:39 ADAS 및 승차감\n21:04 총평"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Bxxf--NeKzuX2yk7Z9Dv5_SnxgE",
+      "id": "xsKq41_avkw",
+      "snippet": {
+        "publishedAt": "2023-03-14T09:00:36Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "아반떼 부분변경, 3가지 인테리어 컬러 중 어떤 게 최고?",
+        "description": "#shorts #아반떼 #인테리어",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xsKq41_avkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xsKq41_avkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xsKq41_avkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xsKq41_avkw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xsKq41_avkw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "카밥",
+        "tags": ["shorts", "아반떼", "인테리어", "컬러", "세이지그린", "캐쉬미어베이지", "블랙원톤", "카탈로그", "색상"],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "아반떼 부분변경, 3가지 인테리어 컬러 중 어떤 게 최고?",
+          "description": "#shorts #아반떼 #인테리어"
+        }
+      }
+    }
+  ],
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  }
+}

@@ -1,0 +1,1712 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "_GfFOliBL64PXDnb8BM7rG81drg",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 187,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YBtjJYDLS92VBCYTHTqvflGVB4U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "U6-OMp0EGC4"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-14T09:00:31Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]마지막 내연기관 세대의 골프 GTI",
+        "description": "얼마 전 23년형 골프 GTI가 출시됐습니다. 1열 사이의 센터 사이드 에어백과 몇 가지 장식적인 요소가 더 해졌는데요, 해당 연식 모델은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/U6-OMp0EGC4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/U6-OMp0EGC4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/U6-OMp0EGC4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-14T09:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "G3YpL2LmrnBmO4si8uBtgRqfuRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "XWyzQ_QkLUc"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-10T11:00:28Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "디자인은 투 머치, 공간도 투 머치 I 디 올 뉴 싼타페",
+        "description": "현대차 최초의 도심형 SUV이자 쏘렌토와 항상 SUV 시장 1위를 엎치락 뒤치락하고 있는 싼타페의 5세대 모델이 드디어 공개 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/XWyzQ_QkLUc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/XWyzQ_QkLUc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/XWyzQ_QkLUc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-10T11:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7ZgvrzKFt9YqwAHr5KqUCS_87_4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "G2izFvnDUvY"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-07T08:00:07Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]코나 전기차 사려다 아이오닉5가 아른거린다면? I 코나 일렉트릭",
+        "description": "현대 코나 일렉트릭 롱 레인지 모델을 시승해봤습니다. 1세대부터 코나는 파생형 모델로 전기차를 만들었는데 레이 전기차가 나오기 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/G2izFvnDUvY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/G2izFvnDUvY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/G2izFvnDUvY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-07T08:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NL87sAyCxXrsA_W43AA5WHGvAcM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WWTJYnN194E"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-03T08:00:12Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "낮은 차체, 가벼운 무게, 그리고 6단 수동 변속기, 마지막 내연기관 로터스 I 에미라 3.5 퍼스트에디션",
+        "description": "로터스가 다시 한번 대한민국 땅을 밟았습니다. 과거 국내에 들어왔지만 저조한 성적으로 수입이 중단되었는데요, 코너링과 경량화에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WWTJYnN194E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WWTJYnN194E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WWTJYnN194E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-03T08:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "xg-n4jYKNjuthAw-nQ7mZhcaTqI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "u4HTut84beQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-31T03:00:32Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]트랙스와는 확실히 성격이 다릅니다 I 더 뉴 트레일블레이저",
+        "description": "부분 변경을 진행한 더 뉴 트레일블레이저를 시승해봤습니다. 익스테리어와 인테리어가 전반적으로 쉐보레 패밀리룩을 강조하며 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/u4HTut84beQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/u4HTut84beQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/u4HTut84beQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-31T03:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gPRSfWBe2rrzv6-8sN2FETSfY_I",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xg2_OjQqddE"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-25T23:30:21Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "하체 성능을 더 &#39;든든하게&#39; 만들었다고 합니다 I 더 뉴 아반떼 N",
+        "description": "벨로스터N, 코나N의 단종과 더불어 아반떼의 부분 변경 모델이 출시되면서 현대자동차 N라인업은 한동안 공백이었는데요, 그 공백을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xg2_OjQqddE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xg2_OjQqddE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xg2_OjQqddE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-25T23:30:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Zw-aA-1c196GcDS2C6TxzDwMzLE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pJ_ScoUbmVQ"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-24T08:00:18Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]같은 파워트레인 르반떼와 비교해보니... I 마세라티 그레칼레 모데나",
+        "description": "마세라티의 막내 SUV 그레칼레의 인도가 본격적으로 시작됐습니다. 모데나는 그레칼레 라인업 중 가운데에 위치하고 있습니다.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pJ_ScoUbmVQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pJ_ScoUbmVQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pJ_ScoUbmVQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-24T08:00:18Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i1GHQfFq9LHhPlXW50JvEcIGhQQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bbobPzsRya0"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-21T13:33:12Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "스포티지 30주년 모델 실물은 어떤 느낌? 기념 전시 보고 왔습니다",
+        "description": "강남 압구정에 있는 기아의 브랜드관, 기아360에서 스포티지의 30주년을 맞이한 특별 전시가 진행되고 있습니다. 스포티지의 24년형 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bbobPzsRya0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bbobPzsRya0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bbobPzsRya0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-21T13:33:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "obt-xSb7tQKQ7ffXyB0EC3UzCDo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PbDuik5z23I"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-19T12:59:20Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "더 뉴 트레일블레이저, 빠르게 후다닥 훑어봤습니다(인테리어, 익스테리어, 가격)",
+        "description": "트랙스 크로스오버로 오랜만에 훈풍이 불고 있는 한국GM 굳히기를 위해 트레일블레이저의 부분 변경을 출시했습니다 이미 해외 시장 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PbDuik5z23I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PbDuik5z23I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PbDuik5z23I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-19T12:59:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8swAeiwrclhtVgeqi65umG1fudc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "57EDK4eWSFY"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-17T08:00:03Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]하반기에 나온다는 후륜구동 폴스타2를 기다려야 하나? I 폴스타2 싱글모터(전륜)",
+        "description": "매년 한 대씩 새로운 차량을 출시한다는 폴스타, 그런 폴스타의 첫 번째 대중 전기차인 폴스타2를 시승해봤습니다. 참고로 폴스타2는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/57EDK4eWSFY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/57EDK4eWSFY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/57EDK4eWSFY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-17T08:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Qt6-Qyy6q_yFpdcnI31J_azmzT8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ux9gZAsw8a8"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-13T13:00:50Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "실제로 만나 본 첫 번째 전기차N I 아이오닉5 N",
+        "description": "지금은 영국 굿우드 페스티벌에서 전 세계인에게 공개되었을 아이오닉5 N 하루 일찍 실물을 마주했습니다. 하지만 연구원 분들이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ux9gZAsw8a8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ux9gZAsw8a8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ux9gZAsw8a8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-13T13:00:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "sttaiAj5793DfyvAl2U46c2EcEA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ynK1oGVEoUI"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-10T09:00:41Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "룸미러인데 블랙박스인데 ADAS도 지원한다고요? I 아이나비 허브 E100",
+        "description": "블랙박스 1위 업체 아이나비 허브에서 드디어 룸미러형 블랙박스를 내놨습니다. 저는 출시 전부터 아이나비 허브의 제품 협찬으로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ynK1oGVEoUI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ynK1oGVEoUI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ynK1oGVEoUI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-10T09:00:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rwP-t97YNTlxggFAIk6ZredoVZw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ewVmrBN90Oo"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-05T00:58:48Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "일단 너무 예뻐졌잖아 I 더 뉴 모닝",
+        "description": "3세대 모닝의 부분 변경 모델이 공개됐습니다. 풀 체인지급 부분 변경은 이럴 때 쓰는 말인가 봅니다. 2세대에서 3세대로 바뀌었을 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ewVmrBN90Oo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ewVmrBN90Oo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ewVmrBN90Oo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-05T00:58:48Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "v8ZWZ7HWT2MuP22qfElxCtEOHKU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "jHEnfkMFTLw"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-03T08:00:30Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "장거리 주행하면 끊긴다고요? I 메이튼 오토프로 Mayton Android Auto Wireless Adapter #자동차용품",
+        "description": "자동차 콘텐츠로 밥 벌어 먹고 살아야 하는 채널 [카밥]! 약 1년 전, 무선 앱 커넥티드 어댑터 구매를 알아보다 자주 끊긴다는 리뷰에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/jHEnfkMFTLw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/jHEnfkMFTLw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/jHEnfkMFTLw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-03T08:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "r8hn6MxjcHGDoL_1RYY7k5fVj4g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "qFDFKL1vmjU"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-28T08:00:24Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]렉서스다운 전동화? 그게 뭔데? I RX500h &amp; RZ450e",
+        "description": "렉서스다운 전동화를 표방하며 출시한 5세대 RX와 렉서스 최초의 전용 플랫폼 전기차 RZ를 시승해봤습니다. 다양한 프로그램으로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qFDFKL1vmjU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qFDFKL1vmjU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qFDFKL1vmjU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-28T08:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4XY4jzl8Rnh62POt6Wmi0VicZos",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gS5iEwvzRYs"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-27T08:00:25Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "국내 최초 공개! 빠르게 훑어봤습니다 I 애스턴마틴 DB12",
+        "description": "애스턴마틴의 GT 모델인 DB12가 국내에 최초로 공개됐습니다. Grand Tourer의 'Grand'도 이 차를 담아내기에 충분하지 않다며 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gS5iEwvzRYs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gS5iEwvzRYs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gS5iEwvzRYs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-27T08:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "4P1ha4uwszM5iMGKSumAFuiKL10",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ZGigmFfi9i0"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-22T01:00:11Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "뭐를 좋아할지 몰라서 다 가져와봤어 I 렉서스 RX/RZ 신차 발표회",
+        "description": "렉서스가 5세대 RX와 최초의 전용 플랫폼 전기차 RZ를 출시했습니다. 특히 RX는 모든 파워트레인이 하이브리드와 플러그인 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZGigmFfi9i0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZGigmFfi9i0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZGigmFfi9i0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-22T01:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-t6weenOo7NOZqsZ8bWKtfVMlrA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xKezuUAJgC8"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-21T08:00:21Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "미리 알아보면 포니 시승도 가능합니다 I 포니의 시간",
+        "description": "현대자동차가 포니 쿠페 컨셉을 복원한 이후 현대 모터스튜디오 서울에서 '포니의 시간'이라는 행사를 열고 있습니다. 저는 포니에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xKezuUAJgC8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xKezuUAJgC8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xKezuUAJgC8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-21T08:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0uOyIf84k3jR9qOMwMCjn2uoCRE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y-MjB30VfMk"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-13T08:00:11Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]운전 재미 만큼은 아직 국내 원탑 I G70 2.5T AWD",
+        "description": "G70이 부분 변경을 진행했습니다. 익스테리어는 엠블럼과 휠 디자인 등 변화의 폭이 크지 않고 인테리어도 공조기와 룸미러 등이 변경 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y-MjB30VfMk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y-MjB30VfMk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y-MjB30VfMk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-13T08:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zNNktzzuTF9KLTQKf-eCmxRsMmI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JiliXviA6xY"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T03:00:12Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]8백만 원 차이인데 뭘 선택해야 할까? I 크라운 크로스오버",
+        "description": "토요타의 새로운 플래그십, 크라운 크로스오버를 시승했습니다. 2.4 듀얼 부스트 하이브리드와 2.5 하이브드리드 모델을 동시에 시승 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JiliXviA6xY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JiliXviA6xY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JiliXviA6xY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T03:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BS72ea40z5BT692XqBzW2lg1F7E",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p0MihnP18q8"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-06T03:36:44Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "시승 앞두고 만난 일본의 그랜저 I 토요타 크라운 크로스오버",
+        "description": "토요타가 올해 두 번째 신차로 크라운 크로스오버를 들여왔습니다. 아발론의 자리를 대체하는 토요타의 플래그십 모델로 무려 16세대 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p0MihnP18q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p0MihnP18q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p0MihnP18q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-06T03:36:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "z4yDWCbOwy1j5u8dPGL7CivbJVA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "BnPNAQKhEpo"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-01T08:00:04Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]쉐보레만 2대, 8년 째 타고 있습니다 I 트랙스 크로스오버 액티브",
+        "description": "자동차 콘텐츠로 밥 벌어 먹고 살아야 하는 채널 [카밥]! M300 스파크부터 올 뉴 크루즈까지 8년 동안 2대의 쉐보레 차를 운용했던 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BnPNAQKhEpo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BnPNAQKhEpo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BnPNAQKhEpo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-01T08:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "CPz_LvA5d4WB8O6t44tgudYrae4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "dc1-VgwDNZc"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-29T03:00:23Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]하필 처음 탄 테슬라가 끝판왕 I 테슬라 모델S 플래드",
+        "description": "자동차 콘텐츠로 밥 벌어 먹어야 하는 채널 [카밥]! 얼마 전 국내에 출시한 테슬라 모델S 플래드를 시승해봤습니다. 3개의 전기 모터를 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/dc1-VgwDNZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/dc1-VgwDNZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/dc1-VgwDNZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-29T03:00:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DAIRPtXdZO3KXJRySz8T2lV8j3c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p-fDOX8xOig"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-26T08:00:20Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "테슬라 모델S 플래드의 미친 점 3가지",
+        "description": "shorts #테슬라 #모델S.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p-fDOX8xOig/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p-fDOX8xOig/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p-fDOX8xOig/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-26T08:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BVytNsrVAkevRpD3lHIRN78mCeE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ief1l4wjkss"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-22T08:00:16Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]차에 큰 관심이 없다? 이거 사시면 됩니다 I QM6 LPe",
+        "description": "자동차 콘텐츠로 밥 벌어 먹어야 하는 채널 [카밥]! 2016년에 나온 QM6는 모델 체인지 주기가 지났지만 어른들의 사정으로 내년까지는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ief1l4wjkss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ief1l4wjkss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ief1l4wjkss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-22T08:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "AbZF9HF4LfKHO62LOl8JbUxWosI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QROHjfNtkAA"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-19T08:00:17Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]SUV모델보다 이게 더 좋은데? I 렉스턴 스포츠 칸 쿨멘",
+        "description": "자동차 콘텐츠로 밥 벌어먹어야 하는 채널 [카밥]! 지난 번 SUV모델인 렉스턴 뉴 아레나에 이어서 바로 렉스턴 스포츠 칸 쿨멘을 시승 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QROHjfNtkAA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QROHjfNtkAA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QROHjfNtkAA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-19T08:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kIrWAd3BV1kXbQIFLGTfjjnfEZQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wNChSUHg3_0"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-14T03:00:25Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]터프한 외모지만 생각보다 친절한 SUV I 렉스턴 뉴 아레나",
+        "description": "자동차 콘텐츠로 밥 벌어 먹고 싶은 채널 [카밥]! 최근 KG모빌리티가 부분 변경해서 출시한 렉스턴 뉴 아레나, 렉스턴 스포츠 쿨멘 시승 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wNChSUHg3_0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wNChSUHg3_0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wNChSUHg3_0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-14T03:00:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O2H3PrO2rCKiug4pUYzRMbkVyyY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "n5aWfUr0h9E"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-12T08:00:31Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기] 1.6과 2.5는 거의 다른 차네 I 쏘나타 디 엣지",
+        "description": "자동차 콘텐츠로 밥 벌어 먹어야 하는 채널, [카밥]! 오늘은 현대자동차의 30년 이상 이어져 온 헤리티지 중형 세단 쏘나타 DN8의 부분 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n5aWfUr0h9E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n5aWfUr0h9E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n5aWfUr0h9E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-12T08:00:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "8Ao26Ap2dcDdioSfxW6WNkWlRUM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "LkfCY2fqHMs"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-08T11:07:40Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]트림이 와일드트랙인데는 이유가 있었다 I 포드 레인저 와일드트랙",
+        "description": "자동차 콘텐츠로 밥 벌어먹고 싶습니다! 카밥! 포드의 4세대 레인저 와일드트랙을 시승해봤습니다. 익스테리어/적재함/ ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LkfCY2fqHMs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LkfCY2fqHMs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LkfCY2fqHMs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-08T11:07:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "la6osyL_8KmSpfSlkU-oIVxHhyk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "z8-t4t6PLe8"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-05T01:00:17Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "인테리어만 보면 갓 출시한 완전 새차 I 렉스턴 뉴 아레나 / 렉스턴 스포츠 쿨멘",
+        "description": "KG모빌리티가 렉스턴 라인업의 부분 변경 모델을 출시했습니다. SUV는 '뉴 아레나'라는 이름으로 출시됐고 픽업트럭인 스포츠에는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z8-t4t6PLe8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z8-t4t6PLe8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z8-t4t6PLe8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-05T01:00:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vxjh0dx0aCZd12w5XtSKE4GOey4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HAskZuqmjtU"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-04T03:00:12Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "성수동에서 직접 체험할 수 있는 EV9의 신기술",
+        "description": "E-GMP플랫폼 바탕의 대형 전기 SUV, EV9이 사전 계약에 들어갔습니다. 하지만 구독 시스템, HDP등 생소한 신기술들이 대거 적용 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HAskZuqmjtU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HAskZuqmjtU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HAskZuqmjtU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-04T03:00:12Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gvGg-zN8AW-mdakYw0fj4dwkjLc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YssGz2n_vos"
+      },
+      "snippet": {
+        "publishedAt": "2023-05-01T09:00:16Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]서스펜션이 범상치 않다 I BMW X1 sDrive 20i M Line",
+        "description": "일반적으로 전고가 높은 SUV는 운전재미가 경감되기 마련입니다. 특히 전륜구동의 엔트리 SUV라는 장르는 더더욱 그렇죠. 그런데 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YssGz2n_vos/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YssGz2n_vos/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YssGz2n_vos/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-05-01T09:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "qZYiwy3WvoZtnAeySd_C4fxiUMk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JUWHk5dp0Ug"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-27T09:00:14Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[셀린권 시승기]SUV는 싫어하지만 한 대 가지고 싶다...? I BMW X1 20i M Line",
+        "description": "3세대 모델로 돌아온 신형 X1의 2.0 휘발유 모델을 15년차 카 레이싱 선수이자 카럽스쿨 대표인 셀린권과 함께 타봤습니다! [시어머니] ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JUWHk5dp0Ug/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JUWHk5dp0Ug/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JUWHk5dp0Ug/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-27T09:00:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BMMj1GhQtpgkv28_NfejviOT404",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "w9RcYS86rOE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-21T09:00:40Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "폭스바겐이 출시한다는 대형 SUV 국내 테스트 목격 영상 I 폭스바겐 아틀라스",
+        "description": "shorts #폭스바겐 #아틀라스.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/w9RcYS86rOE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/w9RcYS86rOE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/w9RcYS86rOE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-21T09:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b_0n8fYSp0uRMW6pdsqarBbEmn8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lqP49NS7_sE"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-18T09:00:24Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[이벤트] 운전 경력 15분이 15년차 레이서에게 운전을 배우면 생기는 일 I 시어머니x카럽스쿨",
+        "description": "이벤트 참여 방법은 영상 안에 자세히 설명되어 있습니다 김현중PD는 작년 초 면허 취득 이후 딱 15분 운전해 본 그야말로 장롱면허 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lqP49NS7_sE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lqP49NS7_sE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lqP49NS7_sE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-18T09:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rZmyrKx2svOERV3xK8I51HoUYRk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xLdKOR0wmgs"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-14T09:00:39Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]미국차에 대한 편견을 싸그리 다 없애주는 차 I GMC 시에라 드날리",
+        "description": "풀 사이즈 픽업트럭은 미국 브랜드들이 가장 잘 만드는 세그먼트입니다. 시에라 역시 미국에서 판매 순위 6위에 꼽히는 베스트 셀러 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xLdKOR0wmgs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xLdKOR0wmgs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xLdKOR0wmgs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-14T09:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zEXSgHohzLt1kOqXIU2Lw8BEdek",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RGOLPGJzNvA"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-12T08:00:11Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "V8 6.2 픽업트럭에 달린 스포츠 모드...?!",
+        "description": "shorts #시에라 #제로백.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RGOLPGJzNvA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RGOLPGJzNvA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RGOLPGJzNvA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-12T08:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NUXYEmxj2UAPW7qmMYqmKHCM4lI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "vhr2wbeydss"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-11T09:00:40Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]강남에서 많이 팔렸다는데... 끌고 다닐 수는 있는 거야? I GMC 시에라 드날리",
+        "description": "GMC 브랜드가 론칭하며 처음으로 출시한 차는 미국을 상징하는 풀 사이즈 픽업트럭, 시에라입니다. 1억 원에 육박하는 가격을 가진 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vhr2wbeydss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vhr2wbeydss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vhr2wbeydss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-11T09:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oevFjR4Fs14bDY1EaZWaGMAIc7Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "av6gllqAVuM"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-10T08:00:01Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "아우디가 조명 회사라고 불리는 이유.1인칭",
+        "description": "shorts #A8 #아우디.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/av6gllqAVuM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/av6gllqAVuM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/av6gllqAVuM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-10T08:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VeKseDO7szDtgG6V0L4dlNRyX7g",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "asy-sFiu7g4"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-07T09:00:04Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기] 화려함보다 진중함이 무기인 플래그십 세단 I 아우디 A8L 55TFSI",
+        "description": "독3사의 플래그십 세단 중 가장 오래된 모델이자 내년에 풀체인지를 기다리고 있는 아우디A8. 부분 변경을 진행하고 치열한 플래그십 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/asy-sFiu7g4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/asy-sFiu7g4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/asy-sFiu7g4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-07T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "vdOipueGwWS43IMfxjvtqNYZD0Q",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "E-1oe-4ok9I"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-05T01:00:07Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "썸네일 속 차는 한정판이라 5억3천인데 완판 I 마세라티 MC20 첼로",
+        "description": "마세라티의 슈퍼카, MC20의 로드스터형 버젼인 MC20 첼로가 국내에 공식 출시됐습니다. 이탈리아어로 하늘을 뜻하는 '첼로'가 붙은 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E-1oe-4ok9I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E-1oe-4ok9I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E-1oe-4ok9I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-05T01:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3_vS5SmYTflU9L-UAU5sZOGlxcQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_Li3JpJP-Q8"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-03T09:00:30Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "코나 일렉트릭과 일반 코나의 디자인 차이는?",
+        "description": "shorts #코나 #전기차.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Li3JpJP-Q8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Li3JpJP-Q8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Li3JpJP-Q8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-03T09:00:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "MBXu7fpfMGXxeAjPSsCmSiTXzoc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "trlfI6Qr3g8"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-03T02:01:31Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "토레스 전기차 기반의 픽업트럭, KG모빌리티 폼 미쳤다;;",
+        "description": "shorts #토레스 #전기차.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/trlfI6Qr3g8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/trlfI6Qr3g8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/trlfI6Qr3g8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-03T02:01:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "16ZaqflyVKeoaFtcG3Bewvzw7jY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "94Wji6rComg"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-31T09:53:36Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "부스 별 제일 중요한 한대씩만 맛보여 드립니다 I 2023 서울 모빌리티쇼",
+        "description": "2023 서울 모빌리티쇼가 일산 킨텍스에서 4월9일까지 진행됩니다. 국산차는 현대, 기아, 제네시스, KG모빌리티, 르노코리아 수입차는 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/94Wji6rComg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/94Wji6rComg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/94Wji6rComg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-31T09:53:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DoLcNum21hbu6ULnLb1NzUfzXdg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "O1PtvZ1FtRA"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-27T09:00:26Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]파워트레인이 딱히 화려하지는 않은데 매력적이야... I 볼보 V60 크로스컨트리",
+        "description": "지난 번 웨건의 장점을 다룬 1편에 이어 파워트레인과 승차감, ADAS를 다룬 2편 영상입니다. V60 크로스컨트리는 자극적이지 않지만 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O1PtvZ1FtRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O1PtvZ1FtRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O1PtvZ1FtRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-27T09:00:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nxGFsPNuJtIk_JQoARco10YGXQs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Xvld5JyND78"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-24T09:00:32Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "GM의 한국시장 차별...? 트랙스 크로스오버",
+        "description": "shorts #트랙스크로스오버 #GM.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Xvld5JyND78/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Xvld5JyND78/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Xvld5JyND78/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-24T09:00:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DgByYjOsDRgQnGKBtPl7EpzEYr8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "VCbhE-NpTmA"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-23T07:00:21Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "GM이 한국시장에 진심일 때 벌어지는 일 I 쉐보레 트랙스 크로스오버",
+        "description": "트레일 블레이저 이후 3년만에 한국에서 생산하는 신차를 발표한 GM 그동안 여러번 높은 가격 정책으로 논쟁을 일으켰던 GM이 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VCbhE-NpTmA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VCbhE-NpTmA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VCbhE-NpTmA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-23T07:00:21Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "O1Y0jFDq65M33SlwZKB_ZWMi86c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "wyL3G4ySHJk"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-21T09:00:39Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]이렇게 멋진 차 두고 왜 SUV 사요? I 볼보 V60 크로스컨트리",
+        "description": "한번도 타본 적은 없지만 맘 속에 품어두었던 현실적인 드림카 1순위 볼보 V60 크로스컨트리를 시승했습니다. SUV 천국 대한민국 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/wyL3G4ySHJk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/wyL3G4ySHJk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/wyL3G4ySHJk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-21T09:00:39Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zjXyfCYJJJANQihIYYVCJaXWTNI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "18N8ZAWPe5k"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-17T09:00:01Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "[시승기]전동화 모델 나올때까지 숨 참습니다 I 스타리아 라운지 디젤 7인승",
+        "description": "스타리아 라운지 2.2리터 디젤 H-Track 7인승 모델을 시승해봤습니다. 1세대 스타렉스부터 그랜드 스타렉스까지 많이 경험해봤기에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/18N8ZAWPe5k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/18N8ZAWPe5k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/18N8ZAWPe5k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-17T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZYul7j9i-lXs5f5tjTmLkiv-1OA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "xsKq41_avkw"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-14T09:00:36Z",
+        "channelId": "UCXneYyIYkIDBq6J2ePNedVA",
+        "title": "아반떼 부분변경, 3가지 인테리어 컬러 중 어떤 게 최고?",
+        "description": "shorts #아반떼 #인테리어.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xsKq41_avkw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xsKq41_avkw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xsKq41_avkw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "카밥",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-14T09:00:36Z"
+      }
+    }
+  ]
+}

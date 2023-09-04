@@ -1,0 +1,26 @@
+name: viewus-wp-youtube Deploy
+
+on:
+  push:
+    tags:
+      - "v0.*"
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest # 인스턴스 OS
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v2 # 워크플로에서 액세스할 수 있도록 에서 저장소를 체크아웃
+        with:
+          token: ${{ secrets.GIT_TOKEN }}
+      
+      - name: run deploy
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.CRON_HOST }}
+          username: ${{ secrets.CRON_USERNAME }}
+          port: ${{ secrets.CRON_PORT }}
+          key: ${{ secrets.CRON_KEY }}
+          script: |
+            cd source/viewus-wp-youtube/
+            bash deploy.sh ${{ github.ref_name }}
